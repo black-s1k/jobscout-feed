@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-01T17:58:55+00:00",
+"updated": "2026-10-01T18:19:04+00:00",
 "jobs": [
 {
 "title": "Senior Consultant, Valuation & Modelling",
@@ -34,7 +34,7 @@
 "source": "Indeed"
 },
 {
-"title": "Controller / HR Manager",
+"title": "Controller",
 "company": "Duplium Corporation",
 "location": "Oakville, ON, CA (remote)",
 "posted": "2026-10-01",
@@ -255,22 +255,6 @@
 "location": "Markham, ON, CA",
 "posted": "2026-10-01",
 "link": "https://ca.indeed.com/viewjob?jk=041aee3f6e3d2d19",
-"source": "Indeed"
-},
-{
-"title": "HR + Office Administrator",
-"company": "KL Foods Inc.",
-"location": "Markham, ON, CA",
-"posted": "2026-10-01",
-"link": "https://ca.indeed.com/viewjob?jk=72f7d4de2b3e8c7d",
-"source": "Indeed"
-},
-{
-"title": "HR + Office Administrator",
-"company": "KL Foods Inc.",
-"location": "Markham, ON, CA",
-"posted": "2026-10-01",
-"link": "https://ca.indeed.com/viewjob?jk=1621827d7f9ef716",
 "source": "Indeed"
 },
 {
@@ -549,7 +533,7 @@
 "title": "Payroll clerk",
 "company": "Bay Haven Care Community",
 "location": "Collingwood, Ontario, Canada",
-"posted": "2026-10-01T09:50:00Z",
+"posted": "2026-10-01",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50404271",
 "source": "Job Bank"
 },
@@ -557,17 +541,57 @@
 "title": "Bookkeeper",
 "company": "Workrite Construction Services Group Inc",
 "location": "Scarborough, Ontario, Canada",
-"posted": "2026-10-01T08:18:00Z",
+"posted": "2026-10-01",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50403682",
 "source": "Job Bank"
 },
 {
-"title": "General accountant",
-"company": "D. Crupi & Sons Ltd.",
-"location": "Scarborough, Ontario, Canada",
-"posted": "2026-10-01T08:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50403401",
+"title": "Financial analyst",
+"company": "Lennox and Addington County General Hospital",
+"location": "Greater Napanee, Ontario, Canada",
+"posted": "2026-10-01",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50402231",
 "source": "Job Bank"
+},
+{
+"title": "Assistant Branch Manager Hamilton/Halton",
+"company": "FirstOntario Credit Union",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=97ca2c734ab41cb5",
+"source": "Indeed"
+},
+{
+"title": "Senior Director, Trade",
+"company": "CIBC",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=43f52e6b80902093",
+"source": "Indeed"
+},
+{
+"title": "Tax & Estate Planner",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=6e8a5e130ac9d7af",
+"source": "Indeed"
+},
+{
+"title": "Manager - Risk Management",
+"company": "American Express",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=b12ea6a31e3f119d",
+"source": "Indeed"
+},
+{
+"title": "Financial Admin Specialist",
+"company": "Linkwave Wireless Solutions Inc.",
+"location": "North York, ON, CA (remote)",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=dcc957ddbadaa028",
+"source": "Indeed"
 },
 {
 "title": "Accounts payable clerk",
@@ -578,12 +602,172 @@
 "source": "Job Bank"
 },
 {
-"title": "Financial analyst",
-"company": "Lennox and Addington County General Hospital",
-"location": "Greater Napanee, Ontario, Canada",
-"posted": "2026-10-01T06:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50402231",
-"source": "Job Bank"
+"title": "Sr Logistics Specialist, Transportation",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Sr-Logistics-Specialist%2C-Transportation-ON/1405964400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Sr Manager, Data Product Management",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Sr-Manager%2C-Data-Product-Management-ON/1425850800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Product Manager",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Product-Manager-ON/1415976500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Mississauga-Sales-Associate-ON/1425897200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Store Manager, 362 2nd Ave, Future Opportunities",
+"company": "Bell",
+"location": "Fernie, BC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Fernie-Store-Manager%2C-362-2nd-Ave%2C-Future-Opportunities-BC/1393158200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Gestionnaire de magasin, 362 2nd Ave, Futures opportunités",
+"company": "Bell",
+"location": "Fernie, BC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Fernie-Gestionnaire-de-magasin%2C-362-2nd-Ave%2C-Futures-opportunit%C3%A9s-BC/1393158300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Representant vente au detail saisonnier, Lambton Mall",
+"company": "Bell",
+"location": "Sarnia, ON, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Sarnia-Representant-vente-au-detail-saisonnier%2C-Lambton-Mall-ON/1426005900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Plaza Alexis Nihon",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Plaza-Alexis-Nihon-QC/1426201000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Fort Saskatchewan",
+"company": "Bell",
+"location": "Fort Saskatchewan, AB, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Fort-Saskatchewan-Seasonal-Retail-Sales-Associate%2C-Fort-Saskatchewan-AB/1426177000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Lambton Mall",
+"company": "Bell",
+"location": "Sarnia, ON, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Sarnia-Seasonal-Retail-Sales-Associate%2C-Lambton-Mall-ON/1426006000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Carrefour Angrignon",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Carrefour-Angrignon-QC/1426196200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Place Montréal Trust",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Retail-Sales-Associate%2C-Place-Montr%C3%A9al-Trust-QC/1426199200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Fort Saskatchewan",
+"company": "Bell",
+"location": "Fort Saskatchewan, AB, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Fort-Saskatchewan-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Fort-Saskatchewan-AB/1426177100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Centre régional Manicouagan",
+"company": "Bell",
+"location": "Baie-Comeau, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Baie-Comeau-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Centre-r%C3%A9gional-Manicouagan-QC/1425973500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant aux ventes saisonnier, Les Promenades Gatineau",
+"company": "Bell",
+"location": "Gatineau, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Gatineau-Repr%C3%A9sentant-aux-ventes-saisonnier%2C-Les-Promenades-Gatineau-QC/1426083800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Centre régional Manicouagan",
+"company": "Bell",
+"location": "Baie-Comeau, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Baie-Comeau-Retail-Sales-Associate%2C-Centre-r%C3%A9gional-Manicouagan-QC/1425973600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Plaza Alexis Nihon",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Retail-Sales-Associate%2C-Plaza-Alexis-Nihon-QC/1426200900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Les Promenades Gatineau",
+"company": "Bell",
+"location": "Gatineau, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Gatineau-Seasonal-Retail-Sales-Associate%2C-Les-Promenades-Gatineau-QC/1426083900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Place Montréal Trust",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Place-Montr%C3%A9al-Trust-QC/1426199300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Carrefour Angrignon",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Retail-Sales-Associate%2C-Carrefour-Angrignon-QC/1426196100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Chauffeur-livreur et manutentionnaire",
+"company": "Purolator",
+"location": "Saint-Joseph-de-Beauce, Québec, CA, G0S 2V0",
+"posted": "2026-10-01T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Saint-Joseph-de-Beauce-Chauffeur-livreur-et-manutentionnaire-Qu%C3%A9b-G0S-2V0/1405936300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Director, finance",
@@ -594,19 +778,843 @@
 "source": "Job Bank"
 },
 {
-"title": "Accounting Analyst",
-"company": "AtkinsRéalis",
+"title": "Business Systems Analyst",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Business-Systems-Analyst-Qu%C3%A9b-H4S-1Y9/1433166633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Intern, Human Resources (Winter 2027)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Intern%2C-Human-Resources-%28Winter-2027%29-Qu%C3%A9b-H4S-1Y9/1433156033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Advisor, Social Media",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Advisor%2C-Social-Media-Qu%C3%A9b-H4S-1Y9/1433173533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "CNC Machinist",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-CNC-Machinist-KS-67209/1433186933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Pasante, Contabilidad, Impuestos y Gastos de Viaje",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Pasante%2C-Contabilidad%2C-Impuestos-y-Gastos-de-Viaje-MEX-76270/1433166233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Senior Advisor, Brand & Digital Experience",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Senior-Advisor%2C-Brand-&-Digital-Experience-Qu%C3%A9b-H4S-1Y9/1433168433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Agent Méthodes FTC",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Agent-M%C3%A9thodes-FTC-Qu%C3%A9b-H4S-1Y9/1423088033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Section Chief, Engineering - PLM Project",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Section-Chief%2C-Engineering-PLM-Project-Qu%C3%A9b-H4S-1Y9/1423027633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Conseillier·ère principal·e, Marque et Expérience Digitale",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Conseillier%C2%B7%C3%A8re-principal%C2%B7e%2C-Marque-et-Exp%C3%A9rience-Digitale-Qu%C3%A9b-H4S-1Y9/1433168533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Material & Work Planner",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Material-&-Work-Planner-MEX-76270/1423133433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Aerospace Manufacturing Engineer - New Product Development",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Aerospace-Manufacturing-Engineer-New-Product-Development-Qu%C3%A9b-H4S-1Y9/1423087333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Ingénieur manufacturier aérospatial - Développement de nouveaux produits",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Ing%C3%A9nieur-manufacturier-a%C3%A9rospatial-D%C3%A9veloppement-de-nouveaux-produits-Qu%C3%A9b-H4S-1Y9/1423087233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Methods Agent FTC",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Methods-Agent-FTC-Qu%C3%A9b-H4S-1Y9/1423087933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Interior Craftsperson, Wood Finisher - Day Shift",
+"company": "Bombardier",
+"location": "Windsor Locks, CT, US, 06096-1086",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Windsor-Locks-Interior-Craftsperson%2C-Wood-Finisher-Day-Shift-CT-06096-1086/1423113633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "B1 Aircraft Maintenance Team lead - GCAA/EASA with Global & Challenger Type Rating",
+"company": "Bombardier",
+"location": "Abu Dhabi, AE, 20048",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Abu-Dhabi-B1-Aircraft-Maintenance-Team-lead-GCAAEASA-with-Global-&-Challenger-Type-Rating-20048/1432965733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Agent·e, chaîne d'approvisionnement (composantes quicaillerie)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Agent%C2%B7e%2C-cha%C3%AEne-d'approvisionnement-%28composantes-quicaillerie%29-Qu%C3%A9b-H4S-1Y9/1433095933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Projects, Sustaining Program - Engineering Project Management and Product Development",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Projects%2C-Sustaining-Program-Engineering-Project-Management-and-Product-Development-ON-L5S-1W1/1433147333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Strategy and Business Development Analyst",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Strategy-and-Business-Development-Analyst-Qu%C3%A9b-H4S-1Y9/1433078833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste en stratégie et développement des affaires",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste-en-strat%C3%A9gie-et-d%C3%A9veloppement-des-affaires-Qu%C3%A9b-H4S-1Y9/1433078933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Lead Technician, Avionics/Electronics and Modifications - Evening Shift",
+"company": "Bombardier",
+"location": "Windsor Locks, CT, US, 06096-1086",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Windsor-Locks-Lead-Technician%2C-AvionicsElectronics-and-Modifications-Evening-Shift-CT-06096-1086/1433189833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Bids and Proposals Design Engineer",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Bids-and-Proposals-Design-Engineer-KS-67209/1423131933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Student, International Payroll",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Student%2C-International-Payroll-MEX-76270/1433166833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Intern, Accounting, Taxes and Travel Expenses",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Intern%2C-Accounting%2C-Taxes-and-Travel-Expenses-MEX-76270/1433166133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Financial Analyst, Cost Accounting and S4/HANA",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Financial-Analyst%2C-Cost-Accounting-and-S4HANA-Qu%C3%A9b-H4S-1Y9/1423138633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional Engineering, Liaison",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional-Engineering%2C-Liaison-Qu%C3%A9b-H4S-1Y9/1423148433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste des systèmes d'affaires",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste-des-syst%C3%A8mes-d'affaires-Qu%C3%A9b-H4S-1Y9/1433166533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Supply Chain Agent (Hardware Components)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Supply-Chain-Agent-%28Hardware-Components%29-Qu%C3%A9b-H4S-1Y9/1433096033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Chef·fe de section, Ingénierie - PLM",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Chef%C2%B7fe-de-section%2C-Ing%C3%A9nierie-PLM-Qu%C3%A9b-H4S-1Y9/1423027533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional Senior, Engineering , Liaison",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional-Senior%2C-Engineering-%2C-Liaison-Qu%C3%A9b-H4S-1Y9/1423151933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste financier·ère, Coûts de revient et S4/HANA",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste-financier%C2%B7%C3%A8re%2C-Co%C3%BBts-de-revient-et-S4HANA-Qu%C3%A9b-H4S-1Y9/1423138733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Directeur(trice) de comptes - Moyennes entreprises /Développement - Montreal",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H3B 1S6",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Directeur%28trice%29-de-comptes-Moyennes-entreprises-D%C3%A9veloppement-Montreal-QC-H3B-1S6/605770717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Part Time | Sales Representative | Avalon Mall",
+"company": "TELUS",
+"location": "St. John's, NL, CA, A1B 1W3",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://careers.telus.com/job/St_-John's-Part-Time-Sales-Representative-Avalon-Mall-NL-A1B-1W3/604910717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Account Manager (Commercial Mid-Market)",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H3B 1S6",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Account-Manager-%28Commercial-Mid-Market%29-QC-H3B-1S6/605770817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Full Time Sales Representative | Eastgate Square",
+"company": "TELUS",
+"location": "Stoney Creek, ON, CA, L8E 2P2",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Stoney-Creek-Full-Time-Sales-Representative-Eastgate-Square-ON-L8E-2P2/605776117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Manager, Stations",
+"company": "Toronto Hydro",
 "location": "Toronto, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=0c7cb29cc0d231b4",
-"source": "Indeed"
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Manager%2C-Stations-ON/605749717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Ucluelet, BC, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ucluelet-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-BC/600628317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Officer, Development (Fulfill)",
+"company": "Canada Post",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ottawa-Officer%2C-Development-%28Fulfill%29-ON/604786517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Agent, cheminement de carrière aux opérations",
+"company": "Canada Post",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ottawa-Agent%2C-cheminement-de-carri%C3%A8re-aux-op%C3%A9rations-ON/604786617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Bonne Bay, NL, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Bonne-Bay-Post-Office-Assistant-Term-NL/604735517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Bonne Bay, NL, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Bonne-Bay-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-NL/604735417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent - Guelph",
+"company": "Canada Post",
+"location": "Guelph, ON, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Guelph-Letter-Carrier-Delivery-Agent-Guelph-ON/605667617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Ucluelet, BC, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ucluelet-Post-Office-Assistant-Term-BC/600628417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "IT Business Analyst - Manufacturing Solutions",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-IT-Business-Analyst-Manufacturing-Solutions-Qu%C3%A9b-H4R-1K2/1373362233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste, Système de gestion de la qualité - focal du site",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-Syst%C3%A8me-de-gestion-de-la-qualit%C3%A9-focal-du-site-Qu%C3%A9b-H4S-1Y9/1401617833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyst, Quality Management System Site Focal",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Management-System-Site-Focal-Qu%C3%A9b-H4S-1Y9/1401617933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste d'affaire TI - Solutions manufacturières",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Analyste-d'affaire-TI-Solutions-manufacturi%C3%A8res-Qu%C3%A9b-H4R-1K2/1373362333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste, Assurance Qualité",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste%2C-Assurance-Qualit%C3%A9-Qu%C3%A9b-H4S-1Y9/1422486133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyst, Quality Assurance",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Quality-Assurance-Qu%C3%A9b-H4S-1Y9/1422486233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional Senior, Engineering - Avionics Systems",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Professional-Senior%2C-Engineering-Avionics-Systems-ON-L5S-1W1/1391991933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Assistant/ Associate/ Professor - Gynecologic Pathologist",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Associate-Professor-Gynecologic-Pathologist-ON/605766417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Assistant Professor - Medieval Philosophy",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Medieval-Philosophy-ON/604896817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "POS- Business Sales Consultant",
+"company": "Rogers",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Vancouver-POS-Business-Sales-Consultant-BC/1435708500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Technicien de reportage électronique, Bell Média US",
+"company": "Bell",
+"location": "Washington, D.C., WA, US",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Washington%2C-D_C_-Technicien-de-reportage-%C3%A9lectronique%2C-Bell-M%C3%A9dia-US-WA/1435678700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "ENG Technician, Washington DC, Bell Media US",
+"company": "Bell",
+"location": "Washington, D.C., WA, US",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Washington%2C-D_C_-ENG-Technician%2C-Washington-DC%2C-Bell-Media-US-WA/1435678600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Carrefour Laval",
+"company": "Bell",
+"location": "Laval, QC, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Laval-Seasonal-Retail-Sales-Associate%2C-Carrefour-Laval-QC/1435723700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Sales Consultant, Espace Promenades Saint Bruno",
+"company": "Bell",
+"location": "Saint-Bruno-de-Montarville, QC, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Saint-Bruno-de-Montarville-Seasonal-Sales-Consultant%2C-Espace-Promenades-Saint-Bruno-QC/1435726700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Director, Strategy and Corporate Development",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Director%2C-Strategy-and-Corporate-Development-ON/1435890300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Manager Consumer Sales and Retention, ICG",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-Manager-Consumer-Sales-and-Retention%2C-ICG-QC/1435877400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Directeur(trice), Finance stratégique et Développement corporatif",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Directeur%28trice%29%2C-Finance-strat%C3%A9gique-et-D%C3%A9veloppement-corporatif-ON/1435890400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Spécialiste de soins des produits | Fairview Pointe-Claire | Temps Partiel",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H9R 5J2",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Sp%C3%A9cialiste-de-soins-des-produits-Fairview-Pointe-Claire-Temps-Partiel-QC-H9R-5J2/606630717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Full Time | Sales Representative | Place Versailles",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H1N 1E9",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Full-Time-Sales-Representative-Place-Versailles-QC-H1N-1E9/606632317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Temps Plein | Représentant(e) aux ventes | Place Versailles",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H1N 1E9",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Temps-Plein-Repr%C3%A9sentant%28e%29-aux-ventes-Place-Versailles-QC-H1N-1E9/606632417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Représentant(e) aux ventes | Promenades de L'Outaouais | Temps partiel",
+"company": "TELUS",
+"location": "Gatineau, QC, CA, J8T 6G3",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Gatineau-Repr%C3%A9sentant%28e%29-aux-ventes-Promenades-de-L'Outaouais-Temps-partiel-QC-J8T-6G3/606631517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Infirmier(ère) - Remplacement de 18 mois)",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H3A 3J2",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Infirmier%28%C3%A8re%29-Remplacement-de-18-mois%29-QC-H3A-3J2/606631717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Nurse (18-month replacement)",
+"company": "TELUS",
+"location": "Montréal, QC, CA, H3A 3J2",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Nurse-%2818-month-replacement%29-QC-H3A-3J2/606631817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Full Time | Sales Representative (Koodo) | Dartmouth",
+"company": "TELUS",
+"location": "Dartmouth, NS, CA, B3B 0C8",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Dartmouth-Full-Time-Sales-Representative-%28Koodo%29-Dartmouth-NS-B3B-0C8/606634317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Spécialiste de Soins des Produits | Les Promenades de St-Bruno | Temps Plein",
+"company": "TELUS",
+"location": "Saint-Bruno-de-Montarville, QC, CA, J3V 6A7",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Saint-Bruno-de-Montarville-Sp%C3%A9cialiste-de-Soins-des-Produits-Les-Promenades-de-St-Bruno-Temps-Plein-QC-J3V-6A7/606630617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Retail Support Associate | West Edmonton Mall",
+"company": "TELUS",
+"location": "Edmonton, AB, CA, T5T 4M2",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Edmonton-Retail-Support-Associate-West-Edmonton-Mall-AB-T5T-4M2/606632217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Retail Support Associate | Sherway Gardens",
+"company": "TELUS",
+"location": "Etobicoke, ON, CA, M9C 1B8",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Etobicoke-Retail-Support-Associate-Sherway-Gardens-ON-M9C-1B8/606635517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Part Time Sales Representative (Seasonal) | Coquitlam Centre",
+"company": "TELUS",
+"location": "Coquitlam, BC, CA, V3B 5R5",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Coquitlam-Part-Time-Sales-Representative-%28Seasonal%29-Coquitlam-Centre-BC-V3B-5R5/606640417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Part Time Sales Representative | Georgian Mall",
+"company": "TELUS",
+"location": "Barrie, ON, CA, L4M 4Z8",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Barrie-Part-Time-Sales-Representative-Georgian-Mall-ON-L4M-4Z8/606644217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Part Time Sales Representative | Cambridge Centre",
+"company": "TELUS",
+"location": "Cambridge, ON, CA, N1R 6B3",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Cambridge-Part-Time-Sales-Representative-Cambridge-Centre-ON-N1R-6B3/606643117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Part Time Sales Representative | Cornwall Square",
+"company": "TELUS",
+"location": "Cornwall, ON, CA, K6H 6M2",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Cornwall-Part-Time-Sales-Representative-Cornwall-Square-ON-K6H-6M2/606645017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Dsgn Engineer Specialist - Civil",
+"company": "Hydro One",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.hydroone.com/job/Toronto-Dsgn-Engineer-Specialist-Civil-ON/1291614247/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Hydro One careers"
+},
+{
+"title": "Facteur - Agent de livraison 1 1",
+"company": "Canada Post",
+"location": "Dieppe, NB, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Dieppe-Facteur-Agent-de-livraison-1-1-NB/606631317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent 1 1",
+"company": "Canada Post",
+"location": "Dieppe, NB, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Dieppe-Letter-Carrier-Delivery-Agent-1-1-NB/606631417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison 1",
+"company": "Canada Post",
+"location": "Moncton, NB, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Moncton-Facteur-Agent-de-livraison-1-NB/606631117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent 1",
+"company": "Canada Post",
+"location": "Moncton, NB, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Moncton-Letter-Carrier-Delivery-Agent-1-NB/606631217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ottawa-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-ON/606634717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ottawa-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-ON/606634817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Tara, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Tara-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-ON/606632917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Tara, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Tara-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-ON/606632817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Wallace, NS, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Wallace-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-NS/606651217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Wallace, NS, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Wallace-Post-Office-Assistant-Term-NS/606651117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Metcalfe, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Metcalfe-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-ON/606649117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Metcalfe, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Metcalfe-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-ON/606649217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste",
+"company": "Canada Post",
+"location": "Unity, SK, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Unity-Adjoint-dans-un-bureau-de-poste-SK/606646917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant",
+"company": "Canada Post",
+"location": "Unity, SK, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Unity-Post-Office-Assistant-SK/606646817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Professional, Manufacturing Engineering",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Professional%2C-Manufacturing-Engineering-Qu%C3%A9b-H4R-1K2/1443356233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Aircraft Structures Technician Team Lead",
+"company": "Bombardier",
+"location": "Westerham, GB, TN16 3BN",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Westerham-Aircraft-Structures-Technician-Team-Lead-TN16-3BN/1443423333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technologist, Quality Assurance",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 2A3",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Technologist%2C-Quality-Assurance-Qu%C3%A9b-H4S-2A3/1443469933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technologiste, Assurance Qualité",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 2A3",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Technologiste%2C-Assurance-Qualit%C3%A9-Qu%C3%A9b-H4S-2A3/1443470033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Sessional Instructional Assistant (SIA) Positions - Department of Management at UTM (Fall 2026) (S3)",
+"company": "University of Toronto",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Mississauga-Sessional-Instructional-Assistant-%28SIA%29-Positions-Department-of-Management-at-UTM-%28Fall-2026%29-%28S3%29-ON/606630017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Department Manager",
+"company": "University of Toronto",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Mississauga-Department-Manager-ON/606632117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Assistant/ Associate/ Full Professor - Gynecologic Oncologist",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Associate-Full-Professor-Gynecologic-Oncologist-ON/606635017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - NMC271H1S - The Sufi Tradition in Islam",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-NMC271H1S-The-Sufi-Tradition-in-Islam-ON/606633617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - NMC262H1S - Empires and Internationalism: The Archaeology of the Historic Near",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-NMC262H1S-Empires-and-Internationalism-The-Archaeology-of-the-Historic-Near-ON/606634117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - NMC240H1S - For the Love of the Prophet: Muhammad in the Islamic Tradition",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-NMC240H1S-For-the-Love-of-the-Prophet-Muhammad-in-the-Islamic-Tradition-ON/606633217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - NMC466H1S - Near Eastern Ceramics",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-NMC466H1S-Near-Eastern-Ceramics-ON/606633317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - NMC292H1S - The Rise of the City",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-NMC292H1S-The-Rise-of-the-City-ON/606633117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Collections Officer",
+"company": "University of Toronto",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Mississauga-Collections-Officer-ON/606653317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Research Associate (Limited Term, 1-year)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Research-Associate-%28Limited-Term%2C-1-year%29-ON/606652117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Project Manager, Research (TERM, 50% FTE)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Project-Manager%2C-Research-%28TERM%2C-50-FTE%29-ON/606655817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Project Manager I - Transportation Development Review (10 - Halton Regional Centre - , 10 - Halton Regional Centre - 1151 Bronte Road, Oakville (Public Works), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-01T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/10-Halton-Regional-Centre-Project-Manager-I-Transportation-Development-Review-10/606651717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Accounting Analyst",
 "company": "AtkinsRéalis",
 "location": "Toronto, ON, CA",
 "posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=6b043c7f639a3c2f",
+"link": "https://ca.indeed.com/viewjob?jk=0c7cb29cc0d231b4",
 "source": "Indeed"
 },
 {
@@ -746,14 +1754,6 @@
 "source": "Indeed"
 },
 {
-"title": "CPA/FInance Manager Wanted",
-"company": "Visual Entertainment Inc",
-"location": "Etobicoke, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=400fb53673d71597",
-"source": "Indeed"
-},
-{
 "title": "Accountant",
 "company": "KIW and Company LLP",
 "location": "Richmond Hill, ON, CA",
@@ -842,14 +1842,6 @@
 "source": "LinkedIn"
 },
 {
-"title": "Accountant",
-"company": "Uline",
-"location": "Milton, Ontario, Canada",
-"posted": "2026-09-30",
-"link": "https://www.linkedin.com/jobs/view/4472165557",
-"source": "LinkedIn"
-},
-{
 "title": "Corporate Accountant",
 "company": "Oakbridge Search Partners",
 "location": "Etobicoke, Ontario, Canada",
@@ -863,14 +1855,6 @@
 "location": "Cambridge, Ontario, Canada",
 "posted": "2026-09-30",
 "link": "https://www.linkedin.com/jobs/view/4472165556",
-"source": "LinkedIn"
-},
-{
-"title": "Accountant, Receivables & Trust",
-"company": "Goodmans LLP",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-30",
-"link": "https://www.linkedin.com/jobs/view/4473790084",
 "source": "LinkedIn"
 },
 {
@@ -903,14 +1887,6 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-09-30",
 "link": "https://ca.indeed.com/viewjob?jk=154191e098eebde8",
-"source": "Indeed"
-},
-{
-"title": "RPA Business Systems Analyst (BSA)",
-"company": "Atlantis IT Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=e622a4f2d58fb992",
 "source": "Indeed"
 },
 {
@@ -1074,14 +2050,6 @@
 "source": "Indeed"
 },
 {
-"title": "Customer Experience Associate - Major Mac & Weston Road (18.75 hours/week)",
-"company": "Scotiabank",
-"location": "Woodbridge, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=9412bfe7bed3aa96",
-"source": "Indeed"
-},
-{
 "title": "Wealth Management Generalist Program",
 "company": "RBC",
 "location": "Toronto, ON, CA",
@@ -1191,14 +2159,6 @@
 "location": "Toronto, ON, CA",
 "posted": "2026-09-30",
 "link": "https://ca.indeed.com/viewjob?jk=92aa63a7e5b71635",
-"source": "Indeed"
-},
-{
-"title": "Recoveries Officer",
-"company": "RBC",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=230635f0b8732011",
 "source": "Indeed"
 },
 {
@@ -1850,14 +2810,6 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Human Resources Business Partner",
-"company": "Jones Healthcare Group",
-"location": "Brampton, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=46d4d577ae18c010",
-"source": "Indeed"
-},
-{
 "title": "Reconciliation Specialist, Institutional Portfolio Operations",
 "company": "Connor, Clark & Lunn Financial Group",
 "location": "Toronto, ON, CA (remote)",
@@ -1887,14 +2839,6 @@
 "location": "Markham, ON, CA",
 "posted": "2026-09-30",
 "link": "https://ca.indeed.com/viewjob?jk=e2b026c0961427c3",
-"source": "Indeed"
-},
-{
-"title": "Property Manager",
-"company": "BGIS",
-"location": "Markham, ON, CA",
-"posted": "2026-09-30",
-"link": "https://ca.indeed.com/viewjob?jk=40ab32206beb8362",
 "source": "Indeed"
 },
 {
@@ -2010,14 +2954,6 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Accountant",
-"company": "HelloFresh",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-30",
-"link": "https://www.linkedin.com/jobs/view/4473925337",
-"source": "LinkedIn"
-},
-{
 "title": "General Accountant",
 "company": "Arconas",
 "location": "Mississauga, Ontario, Canada",
@@ -2069,7 +3005,7 @@
 "title": "Senior accountant",
 "company": "Responsible Energy Inc.",
 "location": "Brockville, Ontario, Canada",
-"posted": "2026-09-30T15:00:00Z",
+"posted": "2026-09-30",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50399336",
 "source": "Job Bank"
 },
@@ -2077,9 +3013,57 @@
 "title": "Bookkeeper",
 "company": "Miranda Professional Corporation CPAs",
 "location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-30T15:00:00Z",
+"posted": "2026-09-30",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50399313",
 "source": "Job Bank"
+},
+{
+"title": "Bookkeeper",
+"company": "Elby Professional Recruitment Inc",
+"location": "Cambridge, Ontario, Canada",
+"posted": "2026-09-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50399242",
+"source": "Job Bank"
+},
+{
+"title": "Junior accountant",
+"company": "Holiday Inn Ottawa East",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-09-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50398789",
+"source": "Job Bank"
+},
+{
+"title": "Financial analyst",
+"company": "Johnson Electric",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-09-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50395707",
+"source": "Job Bank"
+},
+{
+"title": "Senior financial analyst",
+"company": "360°kids",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-09-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50394467",
+"source": "Job Bank"
+},
+{
+"title": "Accounting bookkeeper",
+"company": "Workrite Construction Services Group Inc",
+"location": "Scarborough, Ontario, Canada",
+"posted": "2026-09-30",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50400634",
+"source": "Job Bank"
+},
+{
+"title": "Intermediate / Senior Accountant",
+"company": "Frankel & Company",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-09-30",
+"link": "https://www.linkedin.com/jobs/view/4472320874",
+"source": "LinkedIn"
 },
 {
 "title": "Accounts receivable specialist",
@@ -2095,30 +3079,6 @@
 "location": "Mississauga, Ontario, Canada",
 "posted": "2026-09-30T14:00:00Z",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50399262",
-"source": "Job Bank"
-},
-{
-"title": "Bookkeeper",
-"company": "Elby Professional Recruitment Inc",
-"location": "Cambridge, Ontario, Canada",
-"posted": "2026-09-30T14:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50399242",
-"source": "Job Bank"
-},
-{
-"title": "Junior accountant",
-"company": "Holiday Inn Ottawa East",
-"location": "Ottawa, Ontario, Canada",
-"posted": "2026-09-30T13:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50398789",
-"source": "Job Bank"
-},
-{
-"title": "Bookkeeper",
-"company": "The Tooth Corner",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-30T13:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50398754",
 "source": "Job Bank"
 },
 {
@@ -2138,20 +3098,340 @@
 "source": "Job Bank"
 },
 {
-"title": "Financial analyst",
-"company": "Johnson Electric",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-30T05:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50395707",
-"source": "Job Bank"
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Sales-Associate-ON/1425579400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
 },
 {
-"title": "Senior financial analyst",
-"company": "360°kids",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-09-29T20:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50394467",
-"source": "Job Bank"
+"title": "Manager, BI and Analytics",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Manager%2C-BI-and-Analytics-ON/1425549600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Supervisor Operations Support U.S.",
+"company": "Purolator",
+"location": "Memphis, TN, US, 38118",
+"posted": "2026-09-30T07:00:00+00:00",
+"link": "https://careers.purolator.com/PurolatorInternational/job/Memphis-Supervisor-Operations-Support-U_S_-TN-38118/1423988200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Continuous Improvement Agent Sr",
+"company": "Bombardier",
+"location": "Fort Wayne, IN, US, 46809",
+"posted": "2026-09-30T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Fort-Wayne-Continuous-Improvement-Agent-Sr-IN-46809/1432599433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Registered Nurse",
+"company": "TELUS",
+"location": "Edmonton, AB, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Edmonton-Registered-Nurse-AB/605714217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Bilingual Pharmacy Trainer - Business Analyst II",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Bilingual-Pharmacy-Trainer-Business-Analyst-II-QC/593904417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Formateur bilingue en pharmacie - Analyste d'affaires II",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Formateur-bilingue-en-pharmacie-Analyste-d'affaires-II-QC/593904317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Lead, Corporate Performance & Reporting",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Lead%2C-Corporate-Performance-&-Reporting-ON/605710617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Capital & Maintenance Program Analyst",
+"company": "Toronto Hydro",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.torontohydro.com/job/Toronto-Capital-&-Maintenance-Program-Analyst-ON/605715317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Toronto Hydro careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Major, SK, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Major-Post-Office-Assistant-Term-SK/598648517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Sainte-Angèle-de-Mérici, QC, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sainte-Ang%C3%A8le-de-M%C3%A9rici-Post-Office-Assistant-Term-QC/595886417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Postal Clerk - Retail Counter Clerk",
+"company": "Canada Post",
+"location": "Penetanguishene, ON, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Penetanguishene-Postal-Clerk-Retail-Counter-Clerk-ON/605703717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Customer Credits and Spare Parts Coordinator (Le Bourget)",
+"company": "Bombardier",
+"location": "Paris, FR, 75009",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Paris-Customer-Credits-and-Spare-Parts-Coordinator-%28Le-Bourget%29-75009/1432311533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Building Automation Systems Engineer",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Building-Automation-Systems-Engineer-ON/602306617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Associate Professor/Professor - Economics",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Economics-ON/605706017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Assistant Professor - Inorganic, Polymer, and/or Materials Chemistry",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T02:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Inorganic%2C-Polymer%2C-andor-Materials-Chemistry-ON/605713817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Investment Analyst Intern",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-Investment-Analyst-Intern-QC/1435316400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Stagiaire analyste en investissement",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-Stagiaire-analyste-en-investissement-QC/1435316500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Davidson, SK, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Davidson-Post-Office-Assistant-Term-SK/606623617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Courier Utility 012",
+"company": "Purolator",
+"location": "Etobicoke, ON, CA, M8W 3C3",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Etobicoke-Courier-Utility-012-ON-M8W-3C3/1435416400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Sorter PM YHM 160",
+"company": "Purolator",
+"location": "Mount Hope, ON, CA, L0R 1W0",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Mount-Hope-Sorter-PM-YHM-160-ON-L0R-1W0/1435439100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Sorter AM - Kamloops",
+"company": "Purolator",
+"location": "Kamloops, British Columbia, CA, V2C 5P3",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.purolator.com/job/Kamloops-Sorter-AM-Kamloops-Brit-V2C-5P3/1435585600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "CONTRACTOR - Technical Expert, Engineering - Structures Design Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-CONTRACTOR-Technical-Expert%2C-Engineering-Structures-Design-Integrator-Qu%C3%A9b-H4S-2A9/1442881433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyst, Engineering Program Management",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst%2C-Engineering-Program-Management-Qu%C3%A9b-H4S-1Y9/1443020133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Director Operations",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Director-Operations-MEX-76270/1442588333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Director Operations, 2nd Shift",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Director-Operations%2C-2nd-Shift-MEX-76270/1442588233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Operations Supervisor (7500)",
+"company": "Bombardier",
+"location": "Tucson, AZ, US, 85706-9279",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Tucson-Operations-Supervisor-%287500%29-AZ-85706-9279/1443033933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Associate Professor/Professor - Healthcare Engineering",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Associate-ProfessorProfessor-Healthcare-Engineering-ON/606619217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Assistant Professor - Healthcare Engineering",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Healthcare-Engineering-ON/606618917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Assistant/ Associate/ Professor - Hematological Pathologist",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Assistant-Associate-Professor-Hematological-Pathologist-ON/606619917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Lecturer/Assistant/Associate/Full Professor - Academic Psychiatrist - Addictions",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-LecturerAssistantAssociateFull-Professor-Academic-Psychiatrist-Addictions-ON/606625117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Manager, Finance and Administration",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Manager%2C-Finance-and-Administration-ON/606613117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Administrative & Financial Assistant",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Administrative-&-Financial-Assistant-ON/606627717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Undergraduate Student Advisor",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Undergraduate-Student-Advisor-ON/606614617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Business Officer - Student Life & International Student Centre",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Business-Officer-Student-Life-&-International-Student-Centre-ON/606611417/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Project Coordinator and Designer",
+"company": "University of Toronto",
+"location": "Scarborough, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Scarborough-Project-Coordinator-and-Designer-ON/606612917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "International Co-op Officer (Term)",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-International-Co-op-Officer-%28Term%29-ON/606616217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Road Operations Technician (10 - Halton Regional Centre - , 10 - Halton Regional Centre - 1151 Bronte Road, Oakville (Public Works), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/10-Halton-Regional-Centre-Road-Operations-Technician-10/606610617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Public Health Inspector (16 - Halton Regional Centre - , 16 - Halton Regional Centre - 1151 Bronte Road, Oakville (Health Department), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/16-Halton-Regional-Centre-Public-Health-Inspector-16/606613317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Personal Support Worker",
+"company": "Halton Region",
+"location": "C - Creek Way Village Long Ter, C - Creek Way Village Long Term Care Facility - 5200 Corporate Drive, Burlington, Canada",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/C-Creek-Way-Village-Long-Ter-Personal-Support-Worker-C/606622017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Scheduling Clerk (20 - Halton Regional Centre - , 20 - Halton Regional Centre - 1151 Bronte Road, Oakville (Social & Community Services), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/20-Halton-Regional-Centre-Scheduling-Clerk-20/606615117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Integrated Housing Worker (20 - Halton Regional Centre - , 20 - Halton Regional Centre - 1151 Bronte Road, Oakville (Social & Community Services), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-09-30T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/20-Halton-Regional-Centre-Integrated-Housing-Worker-20/606613517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Accounts payable clerk",
@@ -2162,947 +3442,11 @@
 "source": "Job Bank"
 },
 {
-"title": "Accounting bookkeeper",
-"company": "Workrite Construction Services Group Inc",
-"location": "Scarborough, Ontario, Canada",
-"posted": "2026-09-29T20:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50400634",
-"source": "Job Bank"
-},
-{
 "title": "Accounts payable clerk",
 "company": "City of Windsor",
 "location": "Windsor, Ontario, Canada",
 "posted": "2026-09-29T20:00:00Z",
 "link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50394395",
-"source": "Job Bank"
-},
-{
-"title": "Finance Manager",
-"company": "Leap Tools Inc.",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=f3bd65803923a98f",
-"source": "Indeed"
-},
-{
-"title": "Night Auditor",
-"company": "Four Points & Element Toronto Airport",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=870a7bf7c9284ced",
-"source": "Indeed"
-},
-{
-"title": "Sr. Analyst, Capital Markets & Treasury",
-"company": "Brookfield Asset Management",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=91737964ff13eea2",
-"source": "Indeed"
-},
-{
-"title": "Director, Taxation",
-"company": "Maple Leaf Foods",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=7e96e7fbaf4f3311",
-"source": "Indeed"
-},
-{
-"title": "Manager, Canadian Tax Services",
-"company": "BDO",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=1dd9ac14bf5c4877",
-"source": "Indeed"
-},
-{
-"title": "Financial Controller",
-"company": "Liebherr Group",
-"location": "Burlington, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=4256e7fdaf8800f8",
-"source": "Indeed"
-},
-{
-"title": "Gestionnaire principal, fiscalité",
-"company": "Bell",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=f4a93b871b197f53",
-"source": "Indeed"
-},
-{
-"title": "Senior Tax Manager",
-"company": "Bell",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=3eda6cb6ff7d584e",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst",
-"company": "Mondelēz International",
-"location": "East York, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=cd11453fe5d5e7b0",
-"source": "Indeed"
-},
-{
-"title": "Lead, Corporate Accountant",
-"company": "Venterra Realty",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=fe0c6472bad7f4e4",
-"source": "Indeed"
-},
-{
-"title": "General Accountant",
-"company": "Kaneff Group",
-"location": "Brampton, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=8081df13fb15f4d9",
-"source": "Indeed"
-},
-{
-"title": "Intern, Corporate Tax (8 month)",
-"company": "DREAM",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=83c463b1788b13a8",
-"source": "Indeed"
-},
-{
-"title": "Consultant, PC&T Governance & Controls",
-"company": "CIBC",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=e0f985cfdeac310a",
-"source": "Indeed"
-},
-{
-"title": "Senior Accountant",
-"company": "Westlake Corporation",
-"location": "Woodbridge, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=9dc53a14d17c8a0c",
-"source": "Indeed"
-},
-{
-"title": "Business Operations Consultant",
-"company": "Halton Healthcare",
-"location": "Oakville, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=cf4fdb5caca3d621",
-"source": "Indeed"
-},
-{
-"title": "Accountant (ECH-ON)",
-"company": "Echelon Insurance",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4397071027",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Accountant",
-"company": "K.K. CPA - Chartered Professional Accountant",
-"location": "Hamilton, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471958527",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Rogers Communications",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=c8479ebf81eb6c40",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst (North York)",
-"company": "Finlink Group",
-"location": "Vaughan, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=c53225b9706baf83",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst (North York)",
-"company": "Finlink Group",
-"location": "Markham, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=cec3c723801d72e9",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst (North York)",
-"company": "Finlink Group",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=f0ee7fc132de5ac4",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst (North York)",
-"company": "Finlink Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=ae08122cf9f14fda",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst (North York)",
-"company": "Finlink Group",
-"location": "Brampton, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=9801bc37003692cf",
-"source": "Indeed"
-},
-{
-"title": "Analyst, Institutional Client Credit Management; DVP, Corporates & NBFI",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=3da1114bc18b7edf",
-"source": "Indeed"
-},
-{
-"title": "Analyst, Global Investment Banking - Real Estate",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=88c31f719d6a674f",
-"source": "Indeed"
-},
-{
-"title": "Analyst, Revenue Growth Management (RGM)",
-"company": "Kraft Heinz",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=90bd5c89210dbf9b",
-"source": "Indeed"
-},
-{
-"title": "Campaign Growth Analyst – Simplii Financial",
-"company": "CIBC",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=8f414662db473171",
-"source": "Indeed"
-},
-{
-"title": "Growth Intelligence Analyst – Simplii Financial",
-"company": "CIBC",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=33e22127ebfa8f81",
-"source": "Indeed"
-},
-{
-"title": "Growth Analyst - Simplii Financial",
-"company": "CIBC",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=1cb53ae8e72137b1",
-"source": "Indeed"
-},
-{
-"title": "Senior Financial Crime Risk Analyst (5515)",
-"company": "TD",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=2a407abce440013c",
-"source": "Indeed"
-},
-{
-"title": "Senior Project Management Analyst, National Office - Audit (Toronto)",
-"company": "Deloitte",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=5b7441625b2a8a1d",
-"source": "Indeed"
-},
-{
-"title": "Quality and Risk Analyst in Partner Rotation - 18-month contract",
-"company": "Deloitte",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=34f25adde4172070",
-"source": "Indeed"
-},
-{
-"title": "Credit Analyst Trainee",
-"company": "BMO Financial Group",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=7f7bd7a3c9cfbe3d",
-"source": "Indeed"
-},
-{
-"title": "Work and Rewards Analyst",
-"company": "WTW",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=9ed1bc7564772679",
-"source": "Indeed"
-},
-{
-"title": "Sr. Finance Analyst - Fixed Assets (Contract)",
-"company": "Maple Leaf Foods",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=b5f5d2743705b73d",
-"source": "Indeed"
-},
-{
-"title": "Working Capital Team - Credit Analyst II",
-"company": "Vault Credit Corporation",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=e635047bed602c98",
-"source": "Indeed"
-},
-{
-"title": "Financial Analyst",
-"company": "AV Communications Inc",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=eee5f3c30b808c5a",
-"source": "Indeed"
-},
-{
-"title": "Associate Financial Analyst (Contract)",
-"company": "Agricorp",
-"location": "Guelph, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=55e5d347e730a32b",
-"source": "Indeed"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Resource Label Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=679892cb187291b7",
-"source": "Indeed"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Scotiabank",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=8e4de881c89a903f",
-"source": "Indeed"
-},
-{
-"title": "SUF Analyst",
-"company": "Fitch Group",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=e124874bec60d4f1",
-"source": "Indeed"
-},
-{
-"title": "Reconciliation Analyst, Institutional Portfolio Operations",
-"company": "Connor, Clark & Lunn Financial Group",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=92810674107a3896",
-"source": "Indeed"
-},
-{
-"title": "Business Systems ERP Analyst - Finance /L’analyste principal systèmes financiers (ERP)",
-"company": "MDA",
-"location": "Brampton, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=ef63178d9f2920d7",
-"source": "Indeed"
-},
-{
-"title": "Portfolio Management Analyst, Wealth Investment Office",
-"company": "TD",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=f46a64fb4be98213",
-"source": "Indeed"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Scotiabank",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471949542",
-"source": "LinkedIn"
-},
-{
-"title": "Senior FP&A Analyst",
-"company": "Mattr",
-"location": "Concord, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4463661263",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Vaco by Highspring",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471934676",
-"source": "LinkedIn"
-},
-{
-"title": "Financial Analyst",
-"company": "Vaco",
-"location": "Etobicoke, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471950152",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Resource Label Group",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471769373",
-"source": "LinkedIn"
-},
-{
-"title": "Growth Intelligence Analyst – Simplii Financial",
-"company": "Simplii Financial",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473564224",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "360°kids",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4464231964",
-"source": "LinkedIn"
-},
-{
-"title": "FP&A Senior Business Partner",
-"company": "Interac Corp.",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471925986",
-"source": "LinkedIn"
-},
-{
-"title": "Analyste, Revenu fixe intégré",
-"company": "Fiera Capital",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471964705",
-"source": "LinkedIn"
-},
-{
-"title": "Banking Support Associate",
-"company": "Sutherland",
-"location": "St. Catharines, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=e40f03d75daa369c",
-"source": "Indeed"
-},
-{
-"title": "Full Stack Java/Angular Developer - Assistant Vice President",
-"company": "Citi",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=bcf6b031f0a36253",
-"source": "Indeed"
-},
-{
-"title": "Head of Domestic Payments, Senior Product Manager – Canada",
-"company": "Citi",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=dee497e9989b0cd7",
-"source": "Indeed"
-},
-{
-"title": "(Senior) Director, Credit Execution - Tech & Innovation",
-"company": "National Bank of Canada",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=a04fc6e0c75926f3",
-"source": "Indeed"
-},
-{
-"title": "Financial Planner",
-"company": "BMO Financial Group",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=77af715475d77bc6",
-"source": "Indeed"
-},
-{
-"title": "Sr Android Engineer",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=ffc235bf6a583ce4",
-"source": "Indeed"
-},
-{
-"title": "Director Resilience CoE - Strategy & Transformation",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=5d8ba8c01c2a76b7",
-"source": "Indeed"
-},
-{
-"title": "Associate, Global Markets Supervision",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=8afc35c55cfb22a2",
-"source": "Indeed"
-},
-{
-"title": "Senior Data Scientist - Commercial Banking Data & Analytics, Toronto",
-"company": "Scotiabank",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471954395",
-"source": "LinkedIn"
-},
-{
-"title": "Sr. Internal Auditor",
-"company": "Bank of China (Canada)",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471767453",
-"source": "LinkedIn"
-},
-{
-"title": "Data Engineer",
-"company": "BMO",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473540707",
-"source": "LinkedIn"
-},
-{
-"title": "Associate, Entertainment Banking",
-"company": "CIBC",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473554467",
-"source": "LinkedIn"
-},
-{
-"title": "Recoveries Officer",
-"company": "RBC",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473297916",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Manager, Special Accounts Management Unit Operations",
-"company": "EQ Bank",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473504933",
-"source": "LinkedIn"
-},
-{
-"title": "Investment Operations Analyst",
-"company": "Northern Trust",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4442832897",
-"source": "LinkedIn"
-},
-{
-"title": "Finance Co-Op",
-"company": "Sun Gro Horticulture",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473554341",
-"source": "LinkedIn"
-},
-{
-"title": "Accounting Coordinator",
-"company": "NRT Technology Corp.",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471936515",
-"source": "LinkedIn"
-},
-{
-"title": "Accounts Payable Associate",
-"company": "DAC",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473541954",
-"source": "LinkedIn"
-},
-{
-"title": "Quality Assurance Engineer Co-op Student (4-month contract)",
-"company": "Foresters Financial",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471747943",
-"source": "LinkedIn"
-},
-{
-"title": "Accounts Payable Coordinator",
-"company": "Mattr",
-"location": "Concord, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473549557",
-"source": "LinkedIn"
-},
-{
-"title": "Office Administrator/Customer Service",
-"company": "COLOR POWDER COATING",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=3f4f1d3053ef0d9d",
-"source": "Indeed"
-},
-{
-"title": "Administrative Assistant/Receptionist",
-"company": "The MechaniX Auto Shop",
-"location": "Hamilton, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=4e2658d7cc7f13e3",
-"source": "Indeed"
-},
-{
-"title": "Administrative Assistant",
-"company": "Clearwing Consulting",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=e4f4646299069f0f",
-"source": "Indeed"
-},
-{
-"title": "Accounts Payable Clerk",
-"company": "CFM",
-"location": "North York, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=8507f1dcd5b0c46d",
-"source": "Indeed"
-},
-{
-"title": "Accounts Payable Clerk",
-"company": "Sharpe Farm Supplies LTD",
-"location": "Guelph, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=17ddc5ed17f0f722",
-"source": "Indeed"
-},
-{
-"title": "Bookkeeper / Taxes - Part Time",
-"company": "2D House Inc",
-"location": "Newmarket, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=6bbc4245a2036b01",
-"source": "Indeed"
-},
-{
-"title": "Junior Bookkeeper",
-"company": "Media Entertainment Network Inc.",
-"location": "Toronto, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=43a5ddb77662536b",
-"source": "Indeed"
-},
-{
-"title": "Bookkeeper",
-"company": "ABL Direct",
-"location": "Newmarket, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473542418",
-"source": "LinkedIn"
-},
-{
-"title": "Financial Services Specialist",
-"company": "American Iron & Metal (AIM)",
-"location": "Hamilton, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4453271054",
-"source": "LinkedIn"
-},
-{
-"title": "Accounts Payable Concierge",
-"company": "We Are Social",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473548169",
-"source": "LinkedIn"
-},
-{
-"title": "Accounts Payable Clerk",
-"company": "Kassen Recruitment",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473550752",
-"source": "LinkedIn"
-},
-{
-"title": "Accounts Payable Clerk",
-"company": "Jonas Software",
-"location": "Markham, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473501862",
-"source": "LinkedIn"
-},
-{
-"title": "Supervisor, Accounts Payable",
-"company": "Opensity Solutions",
-"location": "Greater Toronto Area, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473507736",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Manager Benefits & Wellness",
-"company": "Mackenzie Investments",
-"location": "Greater Toronto Area, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=c3a000bb0ad53f42",
-"source": "Indeed"
-},
-{
-"title": "Talent Acquisition and HR Coordinator - Bilingual",
-"company": "Match Retail",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=05297755e0980653",
-"source": "Indeed"
-},
-{
-"title": "HR Generalist",
-"company": "Pathway Communications",
-"location": "Markham, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=069f6ea7d4da7c55",
-"source": "Indeed"
-},
-{
-"title": "Office Manager (1)",
-"company": "Car Buffs Auto Collision Inc.",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=cbaa695038b8eed3",
-"source": "Indeed"
-},
-{
-"title": "Payroll Specialist",
-"company": "Eclipse Automation",
-"location": "Cambridge, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=51a995710cf1bbb4",
-"source": "Indeed"
-},
-{
-"title": "HR Analyst, Total Rewards",
-"company": "York Region",
-"location": "Newmarket, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=413d79ae2057a37d",
-"source": "Indeed"
-},
-{
-"title": "Accountant, Operations Finance",
-"company": "Sienna Senior Living",
-"location": "Markham, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=b5feb4eb58bc6fcc",
-"source": "Indeed"
-},
-{
-"title": "Corporate Accountant",
-"company": "Westmont Hospitality Group",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=3be89dcdefd4e352",
-"source": "Indeed"
-},
-{
-"title": "Staff Accountant",
-"company": "Dang & Associates CPA",
-"location": "Mississauga, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=b17d7f5f559ec972",
-"source": "Indeed"
-},
-{
-"title": "Payroll Manager",
-"company": "Novus Automotive",
-"location": "Oshawa, ON, CA",
-"posted": "2026-09-29",
-"link": "https://ca.indeed.com/viewjob?jk=0042efb2a472936e",
-"source": "Indeed"
-},
-{
-"title": "Payroll Senior Consultant (Workday) - Human Capital, Operate",
-"company": "Deloitte",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473515867",
-"source": "LinkedIn"
-},
-{
-"title": "Payroll and Billing Administrator",
-"company": "Sandra's Home Health Care Services Inc.",
-"location": "",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471960147",
-"source": "LinkedIn"
-},
-{
-"title": "Finance Administrator (Nuclear)",
-"company": "Black & McDonald Limited",
-"location": "Pickering, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471959823",
-"source": "LinkedIn"
-},
-{
-"title": "Accounting and Payroll Specialist",
-"company": "Adecco",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471961314",
-"source": "LinkedIn"
-},
-{
-"title": "Payroll Specialist - 3 Month Contract",
-"company": "Vaco",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471945323",
-"source": "LinkedIn"
-},
-{
-"title": "Finance & Accounting Manager",
-"company": "exacare ai",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471941738",
-"source": "LinkedIn"
-},
-{
-"title": "Administrative Officer",
-"company": "University of Guelph",
-"location": "Guelph, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471776796",
-"source": "LinkedIn"
-},
-{
-"title": "Sr. Internal Auditor",
-"company": "Day & Ross",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4470661687",
-"source": "LinkedIn"
-},
-{
-"title": "Senior Internal Auditor",
-"company": "Purolator Inc.",
-"location": "Mississauga, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471946219",
-"source": "LinkedIn"
-},
-{
-"title": "Consultant, PC&T Governance & Controls",
-"company": "CIBC",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4473562282",
-"source": "LinkedIn"
-},
-{
-"title": "30-conseiller principal (CF & Consultation); premier auditeur (Audit); analyste principal (Fiscalité)",
-"company": "Deloitte",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471961341",
-"source": "LinkedIn"
-},
-{
-"title": "Director, Internal Controls & Finance Transformation",
-"company": "Neo Performance Materials",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29",
-"link": "https://www.linkedin.com/jobs/view/4471943845",
-"source": "LinkedIn"
-},
-{
-"title": "Financial accountant",
-"company": "Elby Professional Recruitment Inc",
-"location": "Cambridge, Ontario, Canada",
-"posted": "2026-09-29T14:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50392988",
-"source": "Job Bank"
-},
-{
-"title": "Accounts payable clerk",
-"company": "Sharpe Farm Supplies",
-"location": "Guelph, Ontario, Canada",
-"posted": "2026-09-29T12:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50392162",
-"source": "Job Bank"
-},
-{
-"title": "Junior bookkeeper",
-"company": "Media Entertainment Network Inc.",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-09-29T12:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50392054",
-"source": "Job Bank"
-},
-{
-"title": "Income tax return preparer",
-"company": "The Tax Depot",
-"location": "Orillia, Ontario, Canada",
-"posted": "2026-09-29T11:38:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50392012",
-"source": "Job Bank"
-},
-{
-"title": "Cost financial analyst",
-"company": "Global Egg Corporation",
-"location": "Cambridge, Ontario, Canada",
-"posted": "2026-09-29T11:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50391731",
-"source": "Job Bank"
-},
-{
-"title": "Junior accountant",
-"company": "Del Fresco Produce Ltd.",
-"location": "Kingsville, Ontario, Canada",
-"posted": "2026-09-29T10:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50391328",
-"source": "Job Bank"
-},
-{
-"title": "Financial Analyst",
-"company": "Federal Economic Development Agency for Northern Ontario",
-"location": "Sudbury, Ontario, Canada",
-"posted": "2026-09-29T10:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50391141",
-"source": "Job Bank"
-},
-{
-"title": "Payroll administrator",
-"company": "Cavalier Tool & Manufacturing",
-"location": "Windsor, Ontario, Canada",
-"posted": "2026-09-29T10:00:00Z",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50391158",
 "source": "Job Bank"
 }
 ]
