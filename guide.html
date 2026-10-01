@@ -1,0 +1,346 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Scout Setup Guide</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0e0f0c; --card:#1b1d17; --line:#2c2f25; --text:#f5f7ef; --soft:#dfe3d6; --muted:#8c917f; --lime:#c8f53c; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--soft); font-family:Poppins, Arial, sans-serif; line-height:1.6; font-size:16px; }
+  main { max-width:820px; margin:0 auto; padding:44px 20px 72px; }
+  .eyebrow { font-size:13px; font-weight:700; letter-spacing:6px; color:var(--text); margin:0 0 8px; }
+  h1 { font-size:44px; font-weight:800; line-height:1.05; color:var(--lime); margin:0 0 20px; }
+  h2 { font-size:26px; font-weight:700; color:var(--text); margin:40px 0 12px; }
+  strong { color:var(--text); }
+  a { color:var(--lime); }
+  hr { border:0; border-top:1px solid var(--line); margin:36px 0; }
+  ol, ul { padding-left:22px; } li { margin:6px 0; }
+  table { width:100%; border-collapse:collapse; margin:12px 0 4px; font-size:14.5px; display:block; overflow-x:auto; }
+  th, td { border:1px solid var(--line); padding:9px 12px; text-align:left; vertical-align:top; }
+  th { background:var(--card); color:var(--text); }
+  .get { display:flex; gap:22px; align-items:center; background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin:0 0 28px; }
+  .get img { width:132px; height:132px; border-radius:8px; background:#fff; flex:none; }
+  .btn { display:inline-block; background:var(--lime); color:var(--bg); font-weight:700; text-decoration:none; border-radius:999px; padding:11px 22px; margin-top:10px; }
+  @media (max-width:560px) { .get { flex-direction:column; align-items:flex-start; } h1 { font-size:36px; } }
+  @media print { body { background:#fff; color:#222; } h1, h2, strong, th { color:#000; } .btn { display:none; } th, td { border-color:#bbb; } th { background:#f1f3f4; } }
+</style>
+</head>
+<body>
+<main>
+  <p class="eyebrow">AI IGNITE AT YORK</p>
+  <h1>Job Scout Setup Guide</h1>
+  <div class="get">
+    <img src="qr.png" alt="QR code linking to black-s1k.github.io/jobscout-feed">
+    <div>
+      <strong>Get the script</strong><br>
+      Scan the code, or open <strong>black-s1k.github.io/jobscout-feed</strong> on your laptop.<br>
+      <a class="btn" href="./">Copy the script</a>
+    </div>
+  </div>
+  <p>Job Scout is a Google Sheet that finds new job postings for you. It checks employer career sites, Indeed, LinkedIn, Job Bank and more, keeps only jobs posted in the last 24 hours, and lists them in one place with a link to apply.</p>
+<p><strong>What you need:</strong> a Google account and a laptop. Setup takes about 15 minutes.</p>
+<p><strong>Cost:</strong> free. Nothing to install, and no coding.</p>
+<p><strong>Get the script:</strong> open <strong>black-s1k.github.io/jobscout-feed</strong> on your laptop and click <strong>Copy the script</strong>.</p>
+<hr />
+<h2>Part 1: Create your sheet</h2>
+<ol>
+<li>Open a new browser tab and go to <strong>sheets.new</strong>. A blank Google Sheet opens.</li>
+<li>Click <strong>Untitled spreadsheet</strong> at the top left and rename it <strong>Job Scout</strong>.</li>
+</ol>
+<h2>Part 2: Add the script</h2>
+<ol>
+<li>In the sheet's menu, click <strong>Extensions &gt; Apps Script</strong>. A new tab opens with a code editor.</li>
+<li>Click <strong>Untitled project</strong> at the top left, type <strong>Job Scout</strong>, then click <strong>Rename</strong>.</li>
+<li>Open <strong>black-s1k.github.io/jobscout-feed</strong> and click <strong>Copy the script</strong>.</li>
+<li>Go back to the Apps Script tab and click inside the code area.</li>
+<li>Select everything that is already there (<strong>Cmd+A</strong> or <strong>Ctrl+A</strong>), then paste (<strong>Cmd+V</strong> or <strong>Ctrl+V</strong>). The old code is replaced.</li>
+<li>Save with <strong>Cmd+S</strong> or <strong>Ctrl+S</strong>. You should see "Saved to Drive".</li>
+</ol>
+<p><strong>Important:</strong> do not press the <strong>Run</strong> button in the editor. Everything is done from the sheet's own menu.</p>
+<h2>Part 3: Turn it on</h2>
+<ol>
+<li>Go back to the tab with your sheet and reload the page (<strong>Cmd+R</strong> or <strong>Ctrl+R</strong>).</li>
+<li>Wait about 15 seconds. A new menu called <strong>Job Scout</strong> appears next to <strong>Help</strong>.</li>
+<li>The sheet builds its tabs by itself: <strong>Jobs</strong>, <strong>Fresh 24h</strong>, <strong>Companies</strong> and <strong>Settings</strong>.</li>
+</ol>
+<p>If the tabs do not appear, click <strong>Job Scout &gt; Set up tabs</strong>.</p>
+<h2>Part 4: Tell it what you are looking for</h2>
+<p>Open the <strong>Settings</strong> tab. The yellow cells are the ones to fill in.</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>What to choose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Your field</td>
+<td>Pick your field from the dropdown. This fills in your keywords and adds 20 to 40 Canadian employers to the Companies tab.</td>
+</tr>
+<tr>
+<td>Your subfield</td>
+<td>Optional. Narrows your field, for example Finance &gt; Accounting and audit.</td>
+</tr>
+<tr>
+<td>Your level</td>
+<td>Co-op / Internship, Entry level, and so on. You get jobs at your level and one level above.</td>
+</tr>
+<tr>
+<td>Work style</td>
+<td>In person or hybrid (default), remote within Canada, or anything.</td>
+</tr>
+<tr>
+<td>Your province</td>
+<td>Two letters, for example ON.</td>
+</tr>
+<tr>
+<td>Locations</td>
+<td>Places you would work, separated by commas. Default: Toronto, Ontario. Add Canada to accept jobs anywhere in Canada.</td>
+</tr>
+<tr>
+<td>Exclude keywords</td>
+<td>Optional. Words you never want in a job title, for example: senior, manager.</td>
+</tr>
+</tbody>
+</table>
+<p>You can change any of these at any time. The next refresh uses the new values.</p>
+<h2>Part 5: Your first refresh</h2>
+<ol>
+<li>Click <strong>Job Scout &gt; Refresh jobs now</strong>.</li>
+<li>A box says <strong>Authorization required</strong>. Click <strong>OK</strong> and choose your Google account.</li>
+<li>Google shows "Google hasn't verified this app". This is normal for a script you added yourself. Click <strong>Advanced</strong>, then <strong>Go to Job Scout (unsafe)</strong>.</li>
+<li>Tick <strong>Select all</strong>, then click <strong>Continue</strong>.</li>
+<li>Click <strong>Job Scout &gt; Refresh jobs now</strong> again. The first click only gave permission.</li>
+<li>Wait about a minute. New jobs appear in the <strong>Jobs</strong> tab, newest at the top.</li>
+</ol>
+<p><strong>About the permissions:</strong> the script only works inside this one sheet. It reads your Gmail only to look for job alert emails under one label (Part 7), and it sends you an email when new jobs arrive. You can read every line of the code under <strong>Extensions &gt; Apps Script</strong>.</p>
+<h2>Part 6: Read your results</h2>
+<p><strong>Tabs</strong></p>
+<table>
+<thead>
+<tr>
+<th>Tab</th>
+<th>What it shows</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jobs</td>
+<td>Every job found, newest first.</td>
+</tr>
+<tr>
+<td>Fresh 24h</td>
+<td>Only jobs posted in the last 24 hours.</td>
+</tr>
+<tr>
+<td>Companies</td>
+<td>The employers whose career sites are checked directly.</td>
+</tr>
+<tr>
+<td>Settings</td>
+<td>Your choices, plus <strong>Last refresh</strong>, which shows what was checked and any problems.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Columns in the Jobs tab</strong></p>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Posted</td>
+<td>When the employer posted the job.</td>
+</tr>
+<tr>
+<td>Company, Title, Location</td>
+<td>The job itself.</td>
+</tr>
+<tr>
+<td>Source</td>
+<td>Where it was found: an employer site, Indeed, LinkedIn, Job Bank and so on.</td>
+</tr>
+<tr>
+<td>Link</td>
+<td>Click to open the posting and apply.</td>
+</tr>
+<tr>
+<td>Found</td>
+<td>When your sheet found it.</td>
+</tr>
+<tr>
+<td>Status</td>
+<td>Use the dropdown to track it: New, Applied, Not interested. Closed is set for you when a job is taken down.</td>
+</tr>
+<tr>
+<td>Notes</td>
+<td>Anything you want to remember.</td>
+</tr>
+</tbody>
+</table>
+<h2>Part 7: Make it yours</h2>
+<p><strong>Add a dream company</strong></p>
+<ol>
+<li>Go to the company's careers site and click on any one job posting.</li>
+<li>Copy that page's link. Use a single job's link, not the careers home page.</li>
+<li>In the <strong>Companies</strong> tab, add a new row: the company name in column A and the link in column B.</li>
+<li>Click <strong>Job Scout &gt; Refresh jobs now</strong>. The <strong>Last check</strong> column shows whether it worked.</li>
+</ol>
+<p><strong>Add your job alert emails (optional)</strong></p>
+<ol>
+<li>On LinkedIn or Indeed, create a job alert for your field and city, with email turned on.</li>
+<li>When the first alert email arrives in Gmail, open it.</li>
+<li>Click the three-dot menu at the top right of the email and choose <strong>Filter messages like these</strong>.</li>
+<li>Click <strong>Create filter</strong>, tick <strong>Apply the label</strong>, choose <strong>New label</strong>, name it <strong>job-alerts</strong>, and click <strong>Create filter</strong>.</li>
+<li>From now on, Job Scout reads those alerts on every refresh.</li>
+</ol>
+<p><strong>Turn on autopilot</strong></p>
+<p>Click <strong>Job Scout &gt; Turn auto-refresh ON</strong>. The sheet then checks for new jobs every 15 minutes, even when your laptop is closed, and emails you when something new appears. Use <strong>Turn auto-refresh OFF</strong> to stop it.</p>
+<p><strong>Optional free add-ons</strong></p>
+<p>Each of these needs a free account. Paste the key into the matching row in <strong>Settings</strong>. Each row has a link to the page where you get the key.</p>
+<table>
+<thead>
+<tr>
+<th>Add-on</th>
+<th>What it adds</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Apify</td>
+<td>More LinkedIn results. Uses free monthly credit.</td>
+</tr>
+<tr>
+<td>Firecrawl</td>
+<td>Reads careers pages that the sheet cannot read on its own.</td>
+</tr>
+<tr>
+<td>Adzuna</td>
+<td>A job search covering every field.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Where the jobs come from</h2>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>What it covers</th>
+<th>Sign-up</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Employer career sites</td>
+<td>80+ Canadian employers: banks, hospitals, retailers, utilities, universities, tech companies</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Big employer feeds</td>
+<td>Rogers, Bell, TELUS, Hydro One, OPG, Toronto Hydro, Canada Post, Purolator, Bombardier, University of Toronto, Halton Region</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Amazon and Randstad Canada</td>
+<td>Every Canadian Amazon job, and thousands of Randstad jobs</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Indeed, LinkedIn and Job Bank</td>
+<td>Collected every 30 minutes by the class scraper on GitHub, because these sites block Google's servers</td>
+<td>None</td>
+</tr>
+<tr>
+<td>LinkedIn public search</td>
+<td>Searched directly with your field and level</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Job alert emails</td>
+<td>LinkedIn, Indeed and Glassdoor alerts in your Gmail</td>
+<td>Your own alerts</td>
+</tr>
+<tr>
+<td>Apify, Firecrawl, Adzuna</td>
+<td>Optional extras</td>
+<td>Free key</td>
+</tr>
+</tbody>
+</table>
+<h2>How the list stays clean</h2>
+<ul>
+<li><strong>Fresh only:</strong> a job is added only if it was posted in the last 24 hours, based on the real posting date.</li>
+<li><strong>No duplicates:</strong> the same job found on several sites is added once.</li>
+<li><strong>Closed jobs:</strong> if an employer takes a job down, its row is marked Closed.</li>
+<li><strong>Cleanup:</strong> rows older than 14 days are deleted, unless their Status is Applied.</li>
+<li><strong>No flooding:</strong> at most 10 new jobs per company per refresh. The rest arrive on later refreshes.</li>
+<li><strong>Right level:</strong> senior, manager, director and executive roles are dropped unless you choose that level.</li>
+</ul>
+<hr />
+<h2>Troubleshooting</h2>
+<table>
+<thead>
+<tr>
+<th>Problem</th>
+<th>What to do</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>No Job Scout menu</td>
+<td>Make sure you saved the script (Cmd+S or Ctrl+S), then reload the sheet and wait 15 seconds.</td>
+</tr>
+<tr>
+<td>The menu is there but nothing happens</td>
+<td>That click was the permission step. Click the menu item again.</td>
+</tr>
+<tr>
+<td>"Syntax error" message</td>
+<td>The paste was incomplete. In Apps Script, select all, paste the script again, save, and reload the sheet.</td>
+</tr>
+<tr>
+<td>You pressed Run in the editor</td>
+<td>No harm done. Go back to the sheet and use the Job Scout menu.</td>
+</tr>
+<tr>
+<td>"Authorization required" keeps coming back</td>
+<td>Go through the permission steps again and make sure you tick Select all.</td>
+</tr>
+<tr>
+<td>0 new jobs</td>
+<td>Open Settings and read <strong>Last refresh</strong>. Try changing Max job age to 48, or remove some Exclude keywords.</td>
+</tr>
+<tr>
+<td>A company row says "not found"</td>
+<td>You pasted the careers home page. Open one job and paste that job's link instead.</td>
+</tr>
+<tr>
+<td>A company row says "needs a Firecrawl key"</td>
+<td>That site uses a system the sheet cannot read. Add a free Firecrawl key, or choose another company.</td>
+</tr>
+<tr>
+<td>Jobs from the wrong city</td>
+<td>Check <strong>Locations</strong> in Settings. Remove Canada if it is there.</td>
+</tr>
+<tr>
+<td>Too many emails</td>
+<td>Click <strong>Job Scout &gt; Turn auto-refresh OFF</strong>, or set <strong>Email me new jobs</strong> to no.</td>
+</tr>
+</tbody>
+</table>
+<h2>Good to know</h2>
+<ul>
+<li>Job Scout finds jobs. You still read each posting, tailor your resume and apply yourself.</li>
+<li>The class job feed searches around Toronto. If you are elsewhere, set your Locations and add job alerts for your city.</li>
+<li>Your sheet is private to you, and your keys stay in your own Settings tab.</li>
+</ul>
+</main>
+</body>
+</html>

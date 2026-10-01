@@ -1,5 +1,9 @@
 # Job Scout class feed
 
+**Students:** get the script at **[black-s1k.github.io/jobscout-feed](https://black-s1k.github.io/jobscout-feed/)** and follow the **[setup guide](https://black-s1k.github.io/jobscout-feed/guide.html)** (also in [SETUP.md](SETUP.md)).
+
+<img src="qr.png" alt="QR code for the script page" width="140">
+
 Fresh job postings for the Job Scout Google Sheet, refreshed every 30 minutes by GitHub Actions.
 
 Google's servers are blocked by Indeed and Job Bank, so this repo collects them instead and publishes one file per field. Every Job Scout sheet reads the file for its field and applies its own filters for level, work style, location and freshness.

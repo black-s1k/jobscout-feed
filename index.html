@@ -22,7 +22,7 @@
   li { margin: 6px 0; }
   b { color: var(--text); }
   .phone { display: none; }
-  @media (max-width: 700px), (pointer: coarse) { .phone { display: block; } h1 { font-size: 40px; } }
+  @media (max-width: 700px), (pointer: coarse) { .phone { display: block; } .desk { display: none !important; } h1 { font-size: 40px; } }
   textarea { width: 100%; height: 160px; background: #141510; color: var(--soft); border: 1px solid var(--line); border-radius: 10px; padding: 12px; font: 12px/1.4 ui-monospace, Menlo, monospace; }
   .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
   .foot { color: var(--muted); font-size: 13px; margin-top: 32px; }
@@ -58,6 +58,16 @@
       <li>In the <b>Settings</b> tab, pick your field, level and work style.</li>
       <li><b>Job Scout &gt; Refresh jobs now</b>. Allow access (Advanced &gt; Go to Job Scout), then click Refresh jobs now again.</li>
     </ol>
+  </div>
+
+  <div class="card row" style="justify-content:space-between">
+    <span><b>Need more detail?</b> The full guide covers settings, job alerts, add-ons and troubleshooting.</span>
+    <a href="guide.html" style="font-weight:700">Read the setup guide</a>
+  </div>
+
+  <div class="card desk" style="display:flex; gap:18px; align-items:center">
+    <img src="qr.png" alt="QR code for this page" style="width:110px;height:110px;border-radius:8px;background:#fff">
+    <span style="color:var(--soft)">Sharing with someone? They can scan this code to open this page.</span>
   </div>
 
   <details class="card">
