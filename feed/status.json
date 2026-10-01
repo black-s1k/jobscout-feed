@@ -1,69 +1,69 @@
 {
- "updated": "2026-10-01T18:19:04+00:00",
+ "updated": "2026-10-01T22:36:47+00:00",
  "fields": {
   "tech": {
    "found_this_run": {
-    "Indeed": 184,
-    "LinkedIn": 3,
-    "Job Bank": 54,
-    "Employer career sites": 1354
+    "Indeed": 179,
+    "LinkedIn": 0,
+    "Job Bank": 104,
+    "Employer career sites": 1362
    },
-   "in_feed": 402
+   "in_feed": 500
   },
   "finance": {
    "found_this_run": {
-    "Indeed": 203,
-    "LinkedIn": 1,
-    "Job Bank": 84,
-    "Employer career sites": 911
+    "Indeed": 239,
+    "LinkedIn": 2,
+    "Job Bank": 121,
+    "Employer career sites": 916
    },
-   "in_feed": 431
+   "in_feed": 516
   },
   "health": {
    "found_this_run": {
-    "Indeed": 238,
+    "Indeed": 232,
     "LinkedIn": 0,
-    "Job Bank": 103,
-    "Employer career sites": 1224
+    "Job Bank": 151,
+    "Employer career sites": 1229
    },
-   "in_feed": 485
+   "in_feed": 584
   },
   "business": {
    "found_this_run": {
-    "Indeed": 288,
-    "LinkedIn": 2,
-    "Job Bank": 115,
-    "Employer career sites": 1593
+    "Indeed": 283,
+    "LinkedIn": 4,
+    "Job Bank": 190,
+    "Employer career sites": 1606
    },
-   "in_feed": 591
+   "in_feed": 779
   },
   "eng": {
    "found_this_run": {
-    "Indeed": 188,
+    "Indeed": 183,
     "LinkedIn": 0,
-    "Job Bank": 73,
-    "Employer career sites": 1318
+    "Job Bank": 104,
+    "Employer career sites": 1322
    },
-   "in_feed": 345
+   "in_feed": 416
   },
   "edu": {
    "found_this_run": {
-    "Indeed": 143,
+    "Indeed": 150,
     "LinkedIn": 0,
-    "Job Bank": 85,
-    "Employer career sites": 1222
+    "Job Bank": 113,
+    "Employer career sites": 1231
    },
-   "in_feed": 407
+   "in_feed": 490
   },
   "any": {
    "found_this_run": {
-    "Indeed": 268,
+    "Indeed": 291,
     "LinkedIn": 0,
-    "Job Bank": 75,
-    "Employer career sites": 1073
+    "Job Bank": 250,
+    "Employer career sites": 1080
    },
-   "in_feed": 599
+   "in_feed": 827
   }
  },
- "seconds": 636
+ "seconds": 504
 }
