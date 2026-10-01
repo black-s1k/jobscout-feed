@@ -1,0 +1,62 @@
+{
+ "updated": "2026-10-01T17:34:50+00:00",
+ "fields": {
+  "tech": {
+   "found_this_run": {
+    "Indeed": 255,
+    "LinkedIn": 98,
+    "Job Bank": 9
+   },
+   "in_feed": 321
+  },
+  "finance": {
+   "found_this_run": {
+    "Indeed": 313,
+    "LinkedIn": 109,
+    "Job Bank": 33
+   },
+   "in_feed": 356
+  },
+  "health": {
+   "found_this_run": {
+    "Indeed": 327,
+    "LinkedIn": 100,
+    "Job Bank": 38
+   },
+   "in_feed": 438
+  },
+  "business": {
+   "found_this_run": {
+    "Indeed": 355,
+    "LinkedIn": 107,
+    "Job Bank": 86
+   },
+   "in_feed": 464
+  },
+  "eng": {
+   "found_this_run": {
+    "Indeed": 246,
+    "LinkedIn": 81,
+    "Job Bank": 31
+   },
+   "in_feed": 259
+  },
+  "edu": {
+   "found_this_run": {
+    "Indeed": 252,
+    "LinkedIn": 109,
+    "Job Bank": 66
+   },
+   "in_feed": 358
+  },
+  "any": {
+   "found_this_run": {
+    "Indeed": 345,
+    "LinkedIn": 118,
+    "Job Bank": 292
+   },
+   "in_feed": 520
+  }
+ },
+ "seconds": 318
+}
