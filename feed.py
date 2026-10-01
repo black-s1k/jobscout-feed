@@ -18,6 +18,7 @@ The same job found on several boards is kept once (same company, title and city)
 import json
 import re
 import sys
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -79,7 +80,21 @@ def clean(s):
 
 # ── Sources ────────────────────────────────────────────────────────────────
 
+# LinkedIn rate-limits quickly: its searches run one at a time, a few seconds apart,
+# and only for each field's first few search terms.
+LINKEDIN_LOCK = threading.Lock()
+LINKEDIN_TERMS = 4
+
+
 def jobspy_search(site, term):
+    if site == "linkedin":
+        with LINKEDIN_LOCK:
+            time.sleep(4)
+            return _jobspy_search(site, term)
+    return _jobspy_search(site, term)
+
+
+def _jobspy_search(site, term):
     from jobspy import scrape_jobs
     df = scrape_jobs(
         site_name=[site], search_term=term, location=LOCATION, distance=50,
@@ -217,8 +232,10 @@ def run_field(field, terms):
         stats[label] = stats.get(label, 0) + len(jobs)
         found.extend(jobs)
 
-    for term in terms:
+    for i, term in enumerate(terms):
         for site in JOBSPY_SITES:
+            if site == "linkedin" and i >= LINKEDIN_TERMS:
+                continue
             add(SITE_LABEL[site], lambda: jobspy_search(site, term))
             time.sleep(1)
         add("Job Bank", lambda: jobbank_search(term))
