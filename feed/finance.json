@@ -1,116 +1,236 @@
 {
-"updated": "2026-10-02T08:49:57+00:00",
+"updated": "2026-10-02T15:25:13+00:00",
 "jobs": [
 {
-"title": "Administrative Assistant",
-"company": "United Disposal",
-"location": "Brampton, ON, CA",
+"title": "Program Manager, Operations Support",
+"company": "TTC (Toronto Transit Commission)",
+"location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=acbcc61cbe4af2de",
+"link": "https://ca.indeed.com/viewjob?jk=3b6299b514185565",
 "source": "Indeed"
 },
 {
-"title": "Sr. AI Solution Architect, Generative and Agentic AI",
-"company": "TD",
+"title": "Senior Consultant, Capital Projects Advisory",
+"company": "Deloitte",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=095403fcb392c424",
+"link": "https://ca.indeed.com/viewjob?jk=baa3a383dbc18b81",
 "source": "Indeed"
 },
 {
-"title": "Technical Product Owner, AI-Enabled Enterprise Solutions",
-"company": "TD",
+"title": "Manager, Capital Projects Advisory",
+"company": "Deloitte",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=097475c347e24b27",
+"link": "https://ca.indeed.com/viewjob?jk=fa0bb3d5024c9bed",
 "source": "Indeed"
 },
 {
-"title": "Full-Stack Engineer (Frontend - React) - GTB",
-"company": "TD",
+"title": "WSIB & Leave Management Specialist",
+"company": "DECAST Ltd.",
+"location": "Utopia, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=d0037c3ad7ddff2a",
+"source": "Indeed"
+},
+{
+"title": "Commercial Funding Analyst",
+"company": "Peoples Group",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=2ed11a5111acb400",
+"source": "Indeed"
+},
+{
+"title": "Payroll Senior Consultant (Workday) - Human Capital, Operate",
+"company": "Deloitte",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=dd77f43ab597756f",
+"link": "https://ca.indeed.com/viewjob?jk=9d4e3e3f49c1315c",
 "source": "Indeed"
 },
 {
-"title": "Commercial Credit Advisor, Agriculture",
+"title": "Administrator, Human Resources",
+"company": "Job Skills",
+"location": "Newmarket, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=3e4e6b9fa1fbb567",
+"source": "Indeed"
+},
+{
+"title": "Human Resource Generalist",
+"company": "Commercial Spring & Tool Co",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=1fa4ed73c34250a4",
+"source": "Indeed"
+},
+{
+"title": "Administrative Assistant (III)",
+"company": "McMaster University",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=4783475fb95a26ff",
+"source": "Indeed"
+},
+{
+"title": "Personal Assistant / Driver / Bookkeeper",
+"company": "",
+"location": "Etobicoke, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=8039dc2a0bd770ce",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator/Bookkeeper",
+"company": "First Liberty Group",
+"location": "Vaughan, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=195878fbf8d2aedf",
+"source": "Indeed"
+},
+{
+"title": "Accounts payable and receivable clerk",
+"company": "The Hiring Partner Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50409259",
+"source": "Job Bank"
+},
+{
+"title": "Accounts payable clerk",
+"company": "The Hiring Partner Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50409261",
+"source": "Job Bank"
+},
+{
+"title": "Bookkeeper",
+"company": "Speedway Trailers",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50409323",
+"source": "Job Bank"
+},
+{
+"title": "Financial manager",
+"company": "Asian Legend",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50409678",
+"source": "Job Bank"
+},
+{
+"title": "Bookkeeper",
+"company": "Pacer Building Components",
+"location": "Colborne, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50410151",
+"source": "Job Bank"
+},
+{
+"title": "Client Account Platform Support Specialist (CAPSS)",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=ba19d68ae5443bcc",
+"source": "Indeed"
+},
+{
+"title": "Home Equity Referral Specialist",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=80f2cab397ee74b8",
+"source": "Indeed"
+},
+{
+"title": "Manager, Business Continuity Risk",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=0382d69b4807edf5",
+"source": "Indeed"
+},
+{
+"title": "Home Equity Referral Specialist",
+"company": "RBC",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=0438e93323bb4b13",
+"source": "Indeed"
+},
+{
+"title": "Director, Commercial Finance Agriculture",
 "company": "RBC",
 "location": "Guelph, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=dd18a0aa38b72f68",
+"link": "https://ca.indeed.com/viewjob?jk=da15567f51f86ce3",
 "source": "Indeed"
 },
 {
-"title": "Branch Manager, Clarkson Branch",
-"company": "RBC",
-"location": "Mississauga, ON, CA",
-"posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=979629dca899252a",
-"source": "Indeed"
-},
-{
-"title": "Associate Director, AI Products Development Lead",
+"title": "Portfolio Management Application Support Specialist (PMASS)",
 "company": "RBC",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=a4dbdea2ec319acf",
+"link": "https://ca.indeed.com/viewjob?jk=2d9557c36054aaad",
 "source": "Indeed"
 },
 {
-"title": "Branch Manager, Cooksville Branch",
-"company": "RBC",
-"location": "Mississauga, ON, CA",
-"posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=83f1c8c145d74026",
-"source": "Indeed"
-},
-{
-"title": "Financial analyst",
-"company": "BMO Financial",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-02",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408689",
-"source": "Job Bank"
-},
-{
-"title": "Analyst, Global Investment Banking (Diversified - Consumer & Industrial Products)",
-"company": "RBC",
+"title": "Senior Financial Analyst",
+"company": "Deloitte",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=609cf982c9313647",
+"link": "https://ca.indeed.com/viewjob?jk=0cf17cdf88f071d5",
+"source": "Indeed"
+},
+{
+"title": "Senior Fraud & AML Analyst",
+"company": "Toyota Canada",
+"location": "Scarborough, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=c87dac0dfac6e7f1",
 "source": "Indeed"
 },
 {
 "title": "Accountant",
-"company": "Recrute Action",
-"location": "Toronto, Ontario, Canada",
+"company": "AV Contracting",
+"location": "Etobicoke, Ontario, Canada",
 "posted": "2026-10-02",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407873",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50409258",
 "source": "Job Bank"
 },
 {
 "title": "Accountant",
-"company": "Recrute Action",
-"location": "Waterloo, Ontario, Canada",
+"company": "",
+"location": "Vaughan, ON, CA",
 "posted": "2026-10-02",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407847",
-"source": "Job Bank"
-},
-{
-"title": "Senior Manager, Scientific Research and Experimental Development",
-"company": "Ryan, LLC",
-"location": "Mississauga, ON, CA (remote)",
-"posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=e02c22d718e9c28d",
+"link": "https://ca.indeed.com/viewjob?jk=f67f50a36c6e06e6",
 "source": "Indeed"
 },
 {
-"title": "Risk Analyst/Manager-3",
+"title": "Manager, Assurance and Accounting - Private Enterprise",
+"company": "MNP",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=527979c20ab36df3",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Assurance and Accounting - Private Enterprise",
+"company": "MNP",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=a9a2966875edf530",
+"source": "Indeed"
+},
+{
+"title": "CIAM Engineer-3",
 "company": "Realign",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=e13d128a34a71e62",
+"link": "https://ca.indeed.com/viewjob?jk=050c2401b701265b",
 "source": "Indeed"
 },
 {
@@ -122,11 +242,115 @@
 "source": "Indeed"
 },
 {
-"title": "CIAM Engineer-3",
+"title": "Risk Analyst/Manager-3",
 "company": "Realign",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-02",
-"link": "https://ca.indeed.com/viewjob?jk=050c2401b701265b",
+"link": "https://ca.indeed.com/viewjob?jk=e13d128a34a71e62",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Scientific Research and Experimental Development",
+"company": "Ryan, LLC",
+"location": "Mississauga, ON, CA (remote)",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=e02c22d718e9c28d",
+"source": "Indeed"
+},
+{
+"title": "Accountant",
+"company": "Recrute Action",
+"location": "Waterloo, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407847",
+"source": "Job Bank"
+},
+{
+"title": "Accountant",
+"company": "Recrute Action",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50407873",
+"source": "Job Bank"
+},
+{
+"title": "Analyst, Global Investment Banking (Diversified - Consumer & Industrial Products)",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=609cf982c9313647",
+"source": "Indeed"
+},
+{
+"title": "Financial analyst",
+"company": "BMO Financial",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50408689",
+"source": "Job Bank"
+},
+{
+"title": "Branch Manager, Cooksville Branch",
+"company": "RBC",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=83f1c8c145d74026",
+"source": "Indeed"
+},
+{
+"title": "Associate Director, AI Products Development Lead",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=a4dbdea2ec319acf",
+"source": "Indeed"
+},
+{
+"title": "Branch Manager, Clarkson Branch",
+"company": "RBC",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=979629dca899252a",
+"source": "Indeed"
+},
+{
+"title": "Commercial Credit Advisor, Agriculture",
+"company": "RBC",
+"location": "Guelph, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=dd18a0aa38b72f68",
+"source": "Indeed"
+},
+{
+"title": "Full-Stack Engineer (Frontend - React) - GTB",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=dd77f43ab597756f",
+"source": "Indeed"
+},
+{
+"title": "Technical Product Owner, AI-Enabled Enterprise Solutions",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=097475c347e24b27",
+"source": "Indeed"
+},
+{
+"title": "Sr. AI Solution Architect, Generative and Agentic AI",
+"company": "TD",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=095403fcb392c424",
+"source": "Indeed"
+},
+{
+"title": "Administrative Assistant",
+"company": "United Disposal",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=acbcc61cbe4af2de",
 "source": "Indeed"
 },
 {
@@ -538,6 +762,22 @@
 "source": "Bombardier careers"
 },
 {
+"title": "Methods Agent",
+"company": "Bombardier",
+"location": "Pointe-Claire, Québec, CA, H9R 5Z3",
+"posted": "2026-10-02T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Pointe-Claire-Methods-Agent-Qu%C3%A9b-H9R-5Z3/1433590833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Leader, Operations",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 2A3",
+"posted": "2026-10-02T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Leader%2C-Operations-Qu%C3%A9b-H4S-2A3/1423590433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
 "title": "Medical Imaging Technologist - TH",
 "company": "TELUS",
 "location": "Vancouver, BC, CA, V5Z 1H4",
@@ -850,6 +1090,62 @@
 "source": "University of Toronto careers"
 },
 {
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Kapuskasing, ON, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kapuskasing-Facteur-Agent-de-livraison-et-commis-des-postes-ON/605792517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Livraison colis temps partiel - fin de semaine",
+"company": "Canada Post",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Montr%C3%A9al-Livraison-colis-temps-partiel-fin-de-semaine-QC/605200317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Terrebonne, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Terrebonne-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/603229117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent",
+"company": "Canada Post",
+"location": "Sainte-Agathe-des-Monts, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Sainte-Agathe-des-Monts-Letter-Carrier-Delivery-Agent-QC/599323117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Saint-Georges, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Georges-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/602981217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Terrebonne, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Terrebonne-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/603229017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Lynn Lake, MB, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Lynn-Lake-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-MB/598178317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Pasante, Laboratorio de Materiales y Procesos",
 "company": "Bombardier",
 "location": "Colon, MEX, MX, 76270",
@@ -880,6 +1176,158 @@
 "posted": "2026-10-02T00:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Primary-&-Secondary-Flight-Control-Systems%2C-Bombardier-Eco-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1443554533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Ottawa-Sales-Associate-ON/1436201300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Le Carrefour Rimouski",
+"company": "Bell",
+"location": "Rimouski, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Rimouski-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Le-Carrefour-Rimouski-QC/1436128700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Le Carrefour Rimouski",
+"company": "Bell",
+"location": "Rimouski, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Rimouski-Seasonal-Retail-Sales-Associate%2C-Le-Carrefour-Rimouski-QC/1436128800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail saisonnier, Galeries Saint-Hyacinthe",
+"company": "Bell",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Saint-Hyacinthe-Repr%C3%A9sentant-vente-au-d%C3%A9tail-saisonnier%2C-Galeries-Saint-Hyacinthe-QC/1436139100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Galeries Saint-Hyacinthe",
+"company": "Bell",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Saint-Hyacinthe-Seasonal-Retail-Sales-Associate%2C-Galeries-Saint-Hyacinthe-QC/1436139200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Chef d'équipe - Opérations cliniques",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Chef-d'%C3%A9quipe-Op%C3%A9rations-cliniques-QC/606677517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Team Manager - Clinic Operations",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Team-Manager-Clinic-Operations-QC/606677617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Représentant(e) aux ventes | Carrefour Laval | Temps partiel",
+"company": "TELUS",
+"location": "Laval, QC, CA, H7T 1C8",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Laval-Repr%C3%A9sentant%28e%29-aux-ventes-Carrefour-Laval-Temps-partiel-QC-H7T-1C8/606677717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Val Rita, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Val-Rita-Post-Office-Assistant-Term-ON/606674717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Officer, Training Design and Development and Quality Coach",
+"company": "Canada Post",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ottawa-Officer%2C-Training-Design-and-Development-and-Quality-Coach-ON/606684217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Agent, Élaboration et conception de formations, et conseiller en matière de qualité",
+"company": "Canada Post",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ottawa-Agent%2C-%C3%89laboration-et-conception-de-formations%2C-et-conseiller-en-mati%C3%A8re-de-qualit%C3%A9-ON/606684117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Buyer",
+"company": "Bombardier",
+"location": "Westerham, GB, TN16 3BN",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Westerham-Buyer-TN16-3BN/1443844033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Director, Academic Human Resources",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Director%2C-Academic-Human-Resources-ON/606680217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - EESA10H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-EESA10H3-ON/606685917/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - ESTD19H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-ESTD19H3-ON/606685817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - EESB05H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-EESB05H3-ON/606686017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - FSTC24H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-FSTC24H3-ON/606686617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Public Health Nurse (1 - Halton Regional Centre - 1, 1 - Halton Regional Centre - 1151 Bronte Road, Oakville (Office of the Chair), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/1-Halton-Regional-Centre-1-Public-Health-Nurse-1/606677117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Quality Improvement Specialist (1 - Halton Regional Centre - 1, 1 - Halton Regional Centre - 1151 Bronte Road, Oakville (Office of the Chair), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/1-Halton-Regional-Centre-1-Quality-Improvement-Specialist-1/606683717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Senior Consultant, Valuation & Modelling",
@@ -2592,6 +3040,38 @@
 "posted": "2026-10-01",
 "link": "https://ca.indeed.com/viewjob?jk=d14bbc2b2fef1a87",
 "source": "Indeed"
+},
+{
+"title": "Sr. Business Analyst (Merchandise Financial Planning) (Hybrid)",
+"company": "Foot Locker",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=82bf74ad4c40cb1b",
+"source": "Indeed"
+},
+{
+"title": "Financial Analyst",
+"company": "Techtronic Industries Canada Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-01",
+"link": "https://www.linkedin.com/jobs/view/4463046932",
+"source": "LinkedIn"
+},
+{
+"title": "Senior Financial Analyst, Corporate Financial Reporting",
+"company": "Vaco by Highspring",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-01",
+"link": "https://www.linkedin.com/jobs/view/4472571241",
+"source": "LinkedIn"
+},
+{
+"title": "Senior Financial Analyst",
+"company": "HR Associates",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-01",
+"link": "https://www.linkedin.com/jobs/view/4472943145",
+"source": "LinkedIn"
 },
 {
 "title": "Sr Logistics Specialist, Transportation",

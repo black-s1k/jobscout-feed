@@ -1,6 +1,70 @@
 {
-"updated": "2026-10-02T08:49:57+00:00",
+"updated": "2026-10-02T15:25:13+00:00",
 "jobs": [
+{
+"title": "Steel Fabrication Detailer",
+"company": "Durose Manufacturing Limited",
+"location": "Guelph, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=4cb129034853c074",
+"source": "Indeed"
+},
+{
+"title": "Devops engineer",
+"company": "The Farley Group",
+"location": "Puslinch, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50410160",
+"source": "Job Bank"
+},
+{
+"title": "Building Automation Project Manager - HVAC/Construction",
+"company": "Voyager Controls",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=1a1c5546dfab3253",
+"source": "Indeed"
+},
+{
+"title": "PCB Designer",
+"company": "Eberspaecher Vecture Inc.",
+"location": "Concord, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=87f56b5a77847a85",
+"source": "Indeed"
+},
+{
+"title": "ENGINEERING MANAGER – PRODUCT DEVELOPMENT & POWER SOLUTIONS",
+"company": "GENREP LTD",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=e9e8d7740cef024c",
+"source": "Indeed"
+},
+{
+"title": "Engineer",
+"company": "The Farley Group",
+"location": "Puslinch, ON, CA (remote)",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=049e930a14e57cfe",
+"source": "Indeed"
+},
+{
+"title": "Systems Assurance Specialist",
+"company": "Mott MacDonald",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=063e590589f4a202",
+"source": "Indeed"
+},
+{
+"title": "Industrial Electrician",
+"company": "Johnson Electric",
+"location": "Ancaster, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=c4af2d2354d3f0ef",
+"source": "Indeed"
+},
 {
 "title": "Environmental Engineering or Science Graduate",
 "company": "GHD",
@@ -762,6 +826,54 @@
 "source": "Bombardier careers"
 },
 {
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Kapuskasing, ON, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kapuskasing-Facteur-Agent-de-livraison-et-commis-des-postes-ON/605792517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Livraison colis temps partiel - fin de semaine",
+"company": "Canada Post",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Montr%C3%A9al-Livraison-colis-temps-partiel-fin-de-semaine-QC/605200317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Rural and Suburban Mail Carrier, On-call Relief",
+"company": "Canada Post",
+"location": "Terrebonne, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Terrebonne-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-QC/603229117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité",
+"company": "Canada Post",
+"location": "Saint-Georges, QC, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Saint-Georges-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-QC/602981217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Lynn Lake, MB, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Lynn-Lake-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-MB/598178317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Watrous, SK, CA",
+"posted": "2026-10-02T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Watrous-Post-Office-Assistant-Term-SK/605632117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Pasante, Laboratorio de Materiales y Procesos",
 "company": "Bombardier",
 "location": "Colon, MEX, MX, 76270",
@@ -792,6 +904,118 @@
 "posted": "2026-10-02T00:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/St-Laurent-Intern%2C-Primary-&-Secondary-Flight-Control-Systems%2C-Bombardier-Eco-%28Winter-2027%29-Qu%C3%A9b-H4S-2A9/1443554533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
+},
+{
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Ottawa, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Ottawa-Sales-Associate-ON/1436201300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Le Carrefour Rimouski",
+"company": "Bell",
+"location": "Rimouski, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Rimouski-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Le-Carrefour-Rimouski-QC/1436128700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Le Carrefour Rimouski",
+"company": "Bell",
+"location": "Rimouski, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Rimouski-Seasonal-Retail-Sales-Associate%2C-Le-Carrefour-Rimouski-QC/1436128800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail saisonnier, Galeries Saint-Hyacinthe",
+"company": "Bell",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Saint-Hyacinthe-Repr%C3%A9sentant-vente-au-d%C3%A9tail-saisonnier%2C-Galeries-Saint-Hyacinthe-QC/1436139100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Galeries Saint-Hyacinthe",
+"company": "Bell",
+"location": "Saint-Hyacinthe, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Saint-Hyacinthe-Seasonal-Retail-Sales-Associate%2C-Galeries-Saint-Hyacinthe-QC/1436139200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Chef d'équipe - Opérations cliniques",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Chef-d'%C3%A9quipe-Op%C3%A9rations-cliniques-QC/606677517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Team Manager - Clinic Operations",
+"company": "TELUS",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Montr%C3%A9al-Team-Manager-Clinic-Operations-QC/606677617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Représentant(e) aux ventes | Carrefour Laval | Temps partiel",
+"company": "TELUS",
+"location": "Laval, QC, CA, H7T 1C8",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.telus.com/job/Laval-Repr%C3%A9sentant%28e%29-aux-ventes-Carrefour-Laval-Temps-partiel-QC-H7T-1C8/606677717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "TELUS careers"
+},
+{
+"title": "Director, Academic Human Resources",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Director%2C-Academic-Human-Resources-ON/606680217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - CHMB62H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-CHMB62H3-ON/606686717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - EESD02H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-EESD02H3-ON/606686817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Sessional Lecturer - ESTD19H3",
+"company": "University of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://jobs.utoronto.ca/job/Toronto-Sessional-Lecturer-ESTD19H3-ON/606685817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "University of Toronto careers"
+},
+{
+"title": "Public Health Nurse (1 - Halton Regional Centre - 1, 1 - Halton Regional Centre - 1151 Bronte Road, Oakville (Office of the Chair), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/1-Halton-Regional-Centre-1-Public-Health-Nurse-1/606677117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
+},
+{
+"title": "Quality Improvement Specialist (1 - Halton Regional Centre - 1, 1 - Halton Regional Centre - 1151 Bronte Road, Oakville (Office of the Chair), Canada)",
+"company": "Halton Region",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-02T00:00:00+00:00",
+"link": "https://careers.halton.ca/job/1-Halton-Regional-Centre-1-Quality-Improvement-Specialist-1/606683717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Halton Region careers"
 },
 {
 "title": "Project Engineer, Land Development",
@@ -1919,6 +2143,14 @@
 "location": "Richmond Hill, ON, CA",
 "posted": "2026-10-01",
 "link": "https://ca.indeed.com/viewjob?jk=976668e9df8f56bd",
+"source": "Indeed"
+},
+{
+"title": "Facilities Maintenance Technician",
+"company": "L3Harris",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-01",
+"link": "https://ca.indeed.com/viewjob?jk=573ceaecf6875c03",
 "source": "Indeed"
 },
 {
