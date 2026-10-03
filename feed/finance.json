@@ -1,44 +1,68 @@
 {
-"updated": "2026-10-03T10:13:10+00:00",
+"updated": "2026-10-03T14:48:17+00:00",
 "jobs": [
 {
-"title": "Administrative Assistant",
-"company": "ASAP Screen Printing Inc.",
+"title": "Office Administrator",
+"company": "Deneigement Saint charles",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=01e65eb5dd4800ec",
+"link": "https://ca.indeed.com/viewjob?jk=757d52d9acbe90f7",
 "source": "Indeed"
 },
 {
-"title": "Insurance Advisor Home & Auto - Advice Centre",
-"company": "RBC",
-"location": "Mississauga, ON, CA",
+"title": "Director, accounting and financial control",
+"company": "Conagra Brands",
+"location": "Mississauga, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=d8c4209b43974e86",
-"source": "Indeed"
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415610",
+"source": "Job Bank"
 },
 {
-"title": "Senior Manager, Portfolio Management",
+"title": "Accounting assistant",
+"company": "LCA Chartered Accountant",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415859",
+"source": "Job Bank"
+},
+{
+"title": "Financial analyst",
+"company": "BMO Financial",
+"location": "Whitby, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414393",
+"source": "Job Bank"
+},
+{
+"title": "Associate, Operations II",
 "company": "RBC",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=7d32c4f4055185ec",
+"link": "https://ca.indeed.com/viewjob?jk=7f0f154009b4023c",
 "source": "Indeed"
 },
 {
-"title": "Conseiller(ère) bilingue en lutte Antifraude",
+"title": "Assistant Branch Manager, Fairview Mall Branch",
 "company": "RBC",
-"location": "Mississauga, ON, CA",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=d5c17e4af73f55db",
+"link": "https://ca.indeed.com/viewjob?jk=ea32f87ecb1a6487",
+"source": "Indeed"
+},
+{
+"title": "Director, Operational Resilience, Scenario Analysis & Testing",
+"company": "RBC",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=59eed6c228889768",
 "source": "Indeed"
 },
 {
 "title": "Bilingual Fraud Advisor Advice Centre",
 "company": "RBC",
-"location": "Mississauga, ON, CA",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=10119fd7a6547418",
+"link": "https://ca.indeed.com/viewjob?jk=77f6ab3a5a847087",
 "source": "Indeed"
 },
 {
@@ -52,42 +76,42 @@
 {
 "title": "Bilingual Fraud Advisor Advice Centre",
 "company": "RBC",
-"location": "Toronto, ON, CA",
+"location": "Mississauga, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=77f6ab3a5a847087",
+"link": "https://ca.indeed.com/viewjob?jk=10119fd7a6547418",
 "source": "Indeed"
 },
 {
-"title": "Director, Operational Resilience, Scenario Analysis & Testing",
+"title": "Conseiller(ère) bilingue en lutte Antifraude",
+"company": "RBC",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=d5c17e4af73f55db",
+"source": "Indeed"
+},
+{
+"title": "Senior Manager, Portfolio Management",
 "company": "RBC",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=59eed6c228889768",
+"link": "https://ca.indeed.com/viewjob?jk=7d32c4f4055185ec",
 "source": "Indeed"
 },
 {
-"title": "Assistant Branch Manager, Fairview Mall Branch",
+"title": "Insurance Advisor Home & Auto - Advice Centre",
 "company": "RBC",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=d8c4209b43974e86",
+"source": "Indeed"
+},
+{
+"title": "Administrative Assistant",
+"company": "ASAP Screen Printing Inc.",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=ea32f87ecb1a6487",
+"link": "https://ca.indeed.com/viewjob?jk=01e65eb5dd4800ec",
 "source": "Indeed"
-},
-{
-"title": "Associate, Operations II",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=7f0f154009b4023c",
-"source": "Indeed"
-},
-{
-"title": "Financial analyst",
-"company": "BMO Financial",
-"location": "Whitby, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414393",
-"source": "Job Bank"
 },
 {
 "title": "Sr. Manager, Media Support Services",
@@ -840,6 +864,46 @@
 "posted": "2026-10-03T02:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Toronto-Research-Associate-%28Limited-Term%29-ON/604151717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Elliot Lake, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Elliot-Lake-Facteur-Agent-de-livraison-ON/605829117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Kentville, NS, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kentville-Facteur-Agent-de-livraison-et-commis-des-postes-NS/604528817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Lévis, QC, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/L%C3%A9vis-Facteur-Agent-de-livraison-QC/604725117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "La Guadeloupe, QC, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/La-Guadeloupe-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/602871217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Osgoode, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Osgoode-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/605338617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
 },
 {
 "title": "Intern, Supply Chain (Business Information Systems) (Winter 2027)",
@@ -2695,6 +2759,14 @@
 "location": "Guelph, ON, CA",
 "posted": "2026-10-02",
 "link": "https://ca.indeed.com/viewjob?jk=e02d37d058fc1efd",
+"source": "Indeed"
+},
+{
+"title": "Director, Canada Regional Controller",
+"company": "TransUnion",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=573126037b2ee802",
 "source": "Indeed"
 },
 {

@@ -1,20 +1,36 @@
 {
-"updated": "2026-10-03T10:13:10+00:00",
+"updated": "2026-10-03T14:48:17+00:00",
 "jobs": [
 {
-"title": "Construction technician",
-"company": "Englobe Corp.",
-"location": "Toronto, Ontario, Canada",
+"title": "Medical Imaging Field Service & Installation Technician",
+"company": "Technomed",
+"location": "Mississauga, ON, CA",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415042",
+"link": "https://ca.indeed.com/viewjob?jk=4d5a8620666f694e",
+"source": "Indeed"
+},
+{
+"title": "Project Manager",
+"company": "Horseshoe Hill Construction Inc.",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=0626697c79a5c2e5",
+"source": "Indeed"
+},
+{
+"title": "Civil engineer",
+"company": "TULLOCH",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414323",
 "source": "Job Bank"
 },
 {
-"title": "Intermediate Electrical Engineer",
+"title": "Senior Electrical Engineer",
 "company": "Stantec",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=2f7dbbb8d585e876",
+"link": "https://ca.indeed.com/viewjob?jk=89b7ebe70b0c00e1",
 "source": "Indeed"
 },
 {
@@ -26,19 +42,19 @@
 "source": "Indeed"
 },
 {
-"title": "Senior Electrical Engineer",
+"title": "Intermediate Electrical Engineer",
 "company": "Stantec",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=89b7ebe70b0c00e1",
+"link": "https://ca.indeed.com/viewjob?jk=2f7dbbb8d585e876",
 "source": "Indeed"
 },
 {
-"title": "Civil engineer",
-"company": "TULLOCH",
-"location": "Greater Sudbury, Ontario, Canada",
+"title": "Construction technician",
+"company": "Englobe Corp.",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414323",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415042",
 "source": "Job Bank"
 },
 {
@@ -818,6 +834,54 @@
 "source": "University of Toronto careers"
 },
 {
+"title": "Postal Clerk - Shift 3 Belleville",
+"company": "Canada Post",
+"location": "Belleville, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Belleville-Postal-Clerk-Shift-3-Belleville-ON/605831017/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Postal Clerk - Shift 1 Belleville",
+"company": "Canada Post",
+"location": "Belleville, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Belleville-Postal-Clerk-Shift-1-Belleville-ON/605830517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison",
+"company": "Canada Post",
+"location": "Elliot Lake, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Elliot-Lake-Facteur-Agent-de-livraison-ON/605829117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Kentville, NS, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Kentville-Facteur-Agent-de-livraison-et-commis-des-postes-NS/604528817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Osgoode, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Osgoode-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/605338617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Post Office Assistant - Term",
+"company": "Canada Post",
+"location": "Osgoode, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Osgoode-Post-Office-Assistant-Term-ON/605338717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
 "title": "Intern, Cabin electrical systems integration (Winter 2027)",
 "company": "Bombardier",
 "location": "Dorval, Québec, CA, H4S 2A3",
@@ -1355,7 +1419,7 @@
 },
 {
 "title": "Senior Account Engineer, Property",
-"company": "Münchener Rückversicherungs-Gesellschaft",
+"company": "HSB Canada",
 "location": "Toronto, ON, CA (remote)",
 "posted": "2026-10-02",
 "link": "https://ca.indeed.com/viewjob?jk=bad172e6a26984d1",
@@ -1776,6 +1840,30 @@
 "posted": "2026-10-02",
 "link": "https://ca.indeed.com/viewjob?jk=0ccad96b17fcec58",
 "source": "Indeed"
+},
+{
+"title": "Jr. Process Engineer",
+"company": "FGF Brands",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=9e288463b1cfb0a6",
+"source": "Indeed"
+},
+{
+"title": "Assistant Project Manager",
+"company": "Colliers Project Leaders",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-02",
+"link": "https://ca.indeed.com/viewjob?jk=e6f6fd1d90312de0",
+"source": "Indeed"
+},
+{
+"title": "Civil engineer",
+"company": "Erritt Construction Ltd.",
+"location": "Stouffville, Ontario, Canada",
+"posted": "2026-10-02",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415500",
+"source": "Job Bank"
 },
 {
 "title": "Sales Associate",

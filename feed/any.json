@@ -1,236 +1,532 @@
 {
-"updated": "2026-10-03T10:13:10+00:00",
+"updated": "2026-10-03T14:48:17+00:00",
 "jobs": [
 {
-"title": "RMT Clinic Receptionist",
+"title": "Medical Receptionist",
+"company": "Pickering Diagnostic Imaging Centre",
+"location": "Pickering, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=e5e22a740f4e784a",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator",
+"company": "Deneigement Saint charles",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=757d52d9acbe90f7",
+"source": "Indeed"
+},
+{
+"title": "Program Administrator, Policy (contract until May 2028, Hybrid, Toronto)",
+"company": "Law Society of Ontario",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=9b551879212c8d7d",
+"source": "Indeed"
+},
+{
+"title": "Kiosk Manager Assistant",
 "company": "",
-"location": "North York, ON, CA",
+"location": "Vaughan Mills, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=cae5ae9dec4e4397",
+"link": "https://ca.indeed.com/viewjob?jk=9424067136eca40a",
 "source": "Indeed"
 },
 {
-"title": "Dental Receptionist",
-"company": "Dental office",
-"location": "Hamilton, ON, CA",
+"title": "Kitchen Assistant",
+"company": "",
+"location": "Mississauga, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=167109d8399599c3",
+"link": "https://ca.indeed.com/viewjob?jk=6811089429c3b130",
 "source": "Indeed"
 },
 {
-"title": "Administrative Assistant",
-"company": "ASAP Screen Printing Inc.",
-"location": "Toronto, ON, CA",
+"title": "Medical Office Administrator",
+"company": "Jan Family Clinic",
+"location": "Brampton, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=01e65eb5dd4800ec",
+"link": "https://ca.indeed.com/viewjob?jk=0efb881f2c1ec0d0",
 "source": "Indeed"
 },
 {
-"title": "Certified Dental Receptionist",
-"company": "River Street Endodontics",
-"location": "Toronto, ON, CA",
+"title": "Home support worker",
+"company": "Harpreet Singh Gill",
+"location": "Brampton, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=a80eaee965990e86",
-"source": "Indeed"
-},
-{
-"title": "Project Coordinator",
-"company": "Leon's Furniture",
-"location": "Richmond Hill, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=8da5fba7238d324d",
-"source": "Indeed"
-},
-{
-"title": "Assistant Branch Manager, Fairview Mall Branch",
-"company": "RBC",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=ea32f87ecb1a6487",
-"source": "Indeed"
-},
-{
-"title": "Assistant Store Manager - The Well",
-"company": "Bailey Nelson",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=2c1fbbaf2abb5c5e",
-"source": "Indeed"
-},
-{
-"title": "Business systems analyst",
-"company": "ELITE ROYAL INTERNATIONAL CAREER COLLEGE INC.",
-"location": "Scarborough, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414522",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415423",
 "source": "Job Bank"
 },
 {
-"title": "Gas technician",
-"company": "PRIMEAIR MECHANICAL INC.",
-"location": "Erin, Ontario, Canada",
+"title": "Optician",
+"company": "Eye + Vision Clinic",
+"location": "Perth, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414554",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415426",
 "source": "Job Bank"
 },
 {
-"title": "Dishwasher",
-"company": "Ward One Smokehouse and Brewery",
-"location": "Guelph, Ontario, Canada",
+"title": "Head butcher - retail",
+"company": "Galleria Supermarket",
+"location": "Oakville, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414546",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415429",
 "source": "Job Bank"
 },
 {
-"title": "Visiting nurse",
-"company": "VON Canada",
-"location": "Windsor, Ontario, Canada",
+"title": "Retail sales associate",
+"company": "Bell Canada",
+"location": "Oakville, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414988",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415480",
 "source": "Job Bank"
 },
 {
-"title": "Home-care worker",
-"company": "VON Canada",
-"location": "London, Ontario, Canada",
+"title": "Director, accounting and financial control",
+"company": "Conagra Brands",
+"location": "Mississauga, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414677",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415610",
+"source": "Job Bank"
+},
+{
+"title": "VFX project manager",
+"company": "Horseshoe Hill Construction Inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415490",
+"source": "Job Bank"
+},
+{
+"title": "Line cook",
+"company": "Stacked Pancake & Breakfast House - ELMIRA, ON",
+"location": "Elmira, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415489",
+"source": "Job Bank"
+},
+{
+"title": "Registered dental hygienist",
+"company": "Twin Dental Care",
+"location": "Woodbridge, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415495",
 "source": "Job Bank"
 },
 {
 "title": "Personal support worker - home support",
-"company": "VON Canada",
-"location": "London, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414694",
-"source": "Job Bank"
-},
-{
-"title": "Construction technician",
-"company": "Englobe Corp.",
+"company": "Harvey Simmons",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415042",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415487",
 "source": "Job Bank"
 },
 {
-"title": "Visiting nurse",
-"company": "VON Canada",
-"location": "Chatham-Kent, Ontario, Canada",
+"title": "Child caregiver - private home",
+"company": "Sevraj Dhaliwal",
+"location": "Brampton, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415019",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415522",
 "source": "Job Bank"
 },
 {
-"title": "Sales representative, business services",
-"company": "Avenir Energy",
-"location": "Toronto, Ontario, Canada",
+"title": "Child caregiver - private home",
+"company": "Klasner Family",
+"location": "Thornhill, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415100",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415538",
 "source": "Job Bank"
 },
 {
-"title": "Personal support worker - home support",
-"company": "VON Canada",
-"location": "Campbellford, Ontario, Canada",
+"title": "Machinist",
+"company": "BHOGAL METAL WORKS INC",
+"location": "Etobicoke, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414857",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415670",
 "source": "Job Bank"
 },
 {
-"title": "Registered nurse (R.N.)",
-"company": "Valleyview Residence",
+"title": "General labourer - farm",
+"company": "Freskiw Farms Barrie North Inc.",
+"location": "Hawkestone, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415676",
+"source": "Job Bank"
+},
+{
+"title": "Home support worker",
+"company": "Gina Shular",
 "location": "North York, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414793",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415677",
 "source": "Job Bank"
 },
 {
-"title": "Barber",
-"company": "SK Barbershop",
+"title": "Heavy equipment mechanic",
+"company": "J & J Equipment Repair Inc.",
+"location": "Powassan, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415692",
+"source": "Job Bank"
+},
+{
+"title": "Cleaner",
+"company": "J and C Building Cleaning",
+"location": "Gloucester, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415683",
+"source": "Job Bank"
+},
+{
+"title": "Cleaner",
+"company": "KC and the Sunshine Cleaner?s",
+"location": "Sturgeon Falls, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415682",
+"source": "Job Bank"
+},
+{
+"title": "Pharmacy assistant",
+"company": "Constance bay pharmacy",
+"location": "Woodlawn, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415691",
+"source": "Job Bank"
+},
+{
+"title": "Fire alarm technician",
+"company": "Star Life Fire And Safety Inc.",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415690",
+"source": "Job Bank"
+},
+{
+"title": "General labourer - farm",
+"company": "FRESKIW FARMS",
+"location": "Coldwater, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415857",
+"source": "Job Bank"
+},
+{
+"title": "Accounting assistant",
+"company": "LCA Chartered Accountant",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415859",
+"source": "Job Bank"
+},
+{
+"title": "Certified Dental Assistant",
+"company": "SuttonWest Dental",
+"location": "Georgina, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=f02b29689f0caf5a",
+"source": "Indeed"
+},
+{
+"title": "Dental Assistant",
+"company": "Sutton West Dental",
+"location": "Georgina, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=158dabc7da259353",
+"source": "Indeed"
+},
+{
+"title": "Social Media Marketing Intern",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=bc8ff994bc40a30e",
+"source": "Indeed"
+},
+{
+"title": "Construction helper",
+"company": "Termax",
+"location": "Thunder Bay, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415455",
+"source": "Job Bank"
+},
+{
+"title": "Nail care technician",
+"company": "Amethyst nail studio",
+"location": "Kingston, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415850",
+"source": "Job Bank"
+},
+{
+"title": "Shipping and receiving supervisor",
+"company": "Tao Motor Canada Inc.",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415858",
+"source": "Job Bank"
+},
+{
+"title": "Assistant Food and Beverage Operations Manager - Contract",
+"company": "Marriott International",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=e96972cad426b7ad",
+"source": "Indeed"
+},
+{
+"title": "Medical Receptionist",
+"company": "Multicare clinic",
+"location": "Aurora, ON, CA (remote)",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=4a22a8e13c73e23d",
+"source": "Indeed"
+},
+{
+"title": "Manual Therapy Assistant",
+"company": "Bowmanville Orthoapaedic Physiotherapy Centre",
+"location": "Whitby, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=c8cb3e70ecd51869",
+"source": "Indeed"
+},
+{
+"title": "Engineering manager",
+"company": "TULLOCH",
+"location": "Greater Sudbury, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414511",
+"source": "Job Bank"
+},
+{
+"title": "Restoration technician",
+"company": "First Onsite - CA",
 "location": "Hamilton, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415140",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414510",
 "source": "Job Bank"
 },
 {
-"title": "Hairstylist",
-"company": "SK Hair Salon",
+"title": "Plumber",
+"company": "Royalty Plumbing",
+"location": "Sarnia, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414502",
+"source": "Job Bank"
+},
+{
+"title": "Engineering manager",
+"company": "Checkfront",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414505",
+"source": "Job Bank"
+},
+{
+"title": "Nurse",
+"company": "Good Shepherd Centres",
 "location": "Hamilton, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415139",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414480",
 "source": "Job Bank"
 },
 {
-"title": "Food service supervisor",
-"company": "ONroute",
-"location": "Ingersoll, Ontario, Canada",
+"title": "Information technology (IT) analyst",
+"company": "NA Freight Forwarding Inc",
+"location": "Barrie, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415168",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414481",
 "source": "Job Bank"
 },
 {
-"title": "Food service supervisor",
-"company": "ONroute",
-"location": "Woodstock, Ontario, Canada",
+"title": "Civil engineer",
+"company": "TULLOCH",
+"location": "Greater Sudbury, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415298",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414323",
 "source": "Job Bank"
 },
 {
-"title": "Restaurant manager",
-"company": "ONroute",
-"location": "Mallorytown, Ontario, Canada",
+"title": "Property administrator",
+"company": "The Skyline Group of Companies",
+"location": "Guelph, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415335",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414369",
 "source": "Job Bank"
 },
 {
-"title": "Restaurant manager",
-"company": "ONroute",
-"location": "Port Hope, Ontario, Canada",
+"title": "Restoration estimator",
+"company": "First Onsite - CA",
+"location": "Pickering, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415336",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414478",
 "source": "Job Bank"
 },
 {
-"title": "Food service supervisor",
-"company": "ONroute",
-"location": "Tilbury, Ontario, Canada",
+"title": "Delivery driver",
+"company": "ADECCO",
+"location": "Vaughan, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415337",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414476",
+"source": "Job Bank"
+},
+{
+"title": "Scrum master",
+"company": "Upstaff",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414509",
+"source": "Job Bank"
+},
+{
+"title": "Dental ceramist",
+"company": "Dental Metrics Maven",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414275",
+"source": "Job Bank"
+},
+{
+"title": "Dental assistant",
+"company": "Whiteoaks dental office",
+"location": "Oakville, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414247",
+"source": "Job Bank"
+},
+{
+"title": "Tire technician",
+"company": "Tirecraft",
+"location": "Morrisburg, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414399",
+"source": "Job Bank"
+},
+{
+"title": "Janitor",
+"company": "Topmax Cleaning Services Inc.",
+"location": "Ajax, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414491",
+"source": "Job Bank"
+},
+{
+"title": "Retail sales associate",
+"company": "4Kcannabis",
+"location": "Kingston, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414256",
+"source": "Job Bank"
+},
+{
+"title": "Nurse",
+"company": "HealthOPM",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414263",
+"source": "Job Bank"
+},
+{
+"title": "Esthetician",
+"company": "Hand & Stone Massage and Facial Spa",
+"location": "Newmarket, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414252",
+"source": "Job Bank"
+},
+{
+"title": "Financial analyst",
+"company": "BMO Financial",
+"location": "Whitby, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414393",
+"source": "Job Bank"
+},
+{
+"title": "Dental Assistant - Clinical Management",
+"company": "Markham Dental Hygiene & Wellness",
+"location": "Markham, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=afab4fa65d10c924",
+"source": "Indeed"
+},
+{
+"title": "Light duty cleaner",
+"company": "DoubleTree Fallsview Resort & Spa by Hilton",
+"location": "Niagara Falls, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414517",
+"source": "Job Bank"
+},
+{
+"title": "Home child care provider",
+"company": "Krane Family",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415135",
+"source": "Job Bank"
+},
+{
+"title": "Pharmacy Intern, Hourly Part Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Markham, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=0a41d08827b08237",
+"source": "Indeed"
+},
+{
+"title": "Pizza Student Part Time Day",
+"company": "Fortinos",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=128ebb7271e6d0cb",
+"source": "Indeed"
+},
+{
+"title": "Student, Franchise Part Time Day",
+"company": "No Frills",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=cb0f3ae3a523d2d3",
+"source": "Indeed"
+},
+{
+"title": "Student Part Time Day",
+"company": "Fortinos",
+"location": "Burlington, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=eb0fe3e938b13af7",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Student, Hourly Part Time Day",
+"company": "Shoppers Drug Mart",
+"location": "Maple, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=3463fcf114895075",
+"source": "Indeed"
+},
+{
+"title": "Rehabilitation service worker",
+"company": "Rehab Without Walls Neuro Rehabilitation",
+"location": "Niagara-on-the-Lake, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415398",
+"source": "Job Bank"
+},
+{
+"title": "Building superintendent",
+"company": "Tribe Management inc",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415415",
 "source": "Job Bank"
 },
 {
 "title": "Restaurant manager",
 "company": "Burger King",
-"location": "Tillsonburg, Ontario, Canada",
+"location": "Angus, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415387",
-"source": "Job Bank"
-},
-{
-"title": "Shift manager - fast food restaurant",
-"company": "Burger King",
-"location": "Huntsville, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415388",
-"source": "Job Bank"
-},
-{
-"title": "Restaurant manager",
-"company": "Burger King",
-"location": "Smiths Falls, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415389",
-"source": "Job Bank"
-},
-{
-"title": "Restaurant manager",
-"company": "Burger King",
-"location": "Brockville, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415390",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415392",
 "source": "Job Bank"
 },
 {
@@ -244,265 +540,233 @@
 {
 "title": "Restaurant manager",
 "company": "Burger King",
-"location": "Angus, Ontario, Canada",
+"location": "Brockville, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415392",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415390",
 "source": "Job Bank"
 },
 {
-"title": "Building superintendent",
-"company": "Tribe Management inc",
-"location": "Toronto, Ontario, Canada",
+"title": "Restaurant manager",
+"company": "Burger King",
+"location": "Smiths Falls, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415415",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415389",
 "source": "Job Bank"
 },
 {
-"title": "Rehabilitation service worker",
-"company": "Rehab Without Walls Neuro Rehabilitation",
-"location": "Niagara-on-the-Lake, Ontario, Canada",
+"title": "Shift manager - fast food restaurant",
+"company": "Burger King",
+"location": "Huntsville, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415398",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415388",
 "source": "Job Bank"
 },
 {
-"title": "Pharmacy Student, Hourly Part Time Day",
-"company": "Shoppers Drug Mart",
-"location": "Maple, ON, CA",
+"title": "Restaurant manager",
+"company": "Burger King",
+"location": "Tillsonburg, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=3463fcf114895075",
-"source": "Indeed"
-},
-{
-"title": "Student Part Time Day",
-"company": "Fortinos",
-"location": "Burlington, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=eb0fe3e938b13af7",
-"source": "Indeed"
-},
-{
-"title": "Student, Franchise Part Time Day",
-"company": "No Frills",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=cb0f3ae3a523d2d3",
-"source": "Indeed"
-},
-{
-"title": "Pizza Student Part Time Day",
-"company": "Fortinos",
-"location": "Burlington, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=128ebb7271e6d0cb",
-"source": "Indeed"
-},
-{
-"title": "Pharmacy Intern, Hourly Part Time Flexible Shifts",
-"company": "Shoppers Drug Mart",
-"location": "Markham, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=0a41d08827b08237",
-"source": "Indeed"
-},
-{
-"title": "Home child care provider",
-"company": "Krane Family",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415135",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415387",
 "source": "Job Bank"
 },
 {
-"title": "Light duty cleaner",
-"company": "DoubleTree Fallsview Resort & Spa by Hilton",
-"location": "Niagara Falls, Ontario, Canada",
+"title": "Food service supervisor",
+"company": "ONroute",
+"location": "Tilbury, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414517",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415337",
 "source": "Job Bank"
 },
 {
-"title": "Dental Assistant - Clinical Management",
-"company": "Markham Dental Hygiene & Wellness",
-"location": "Markham, ON, CA",
+"title": "Restaurant manager",
+"company": "ONroute",
+"location": "Port Hope, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=afab4fa65d10c924",
-"source": "Indeed"
-},
-{
-"title": "Financial analyst",
-"company": "BMO Financial",
-"location": "Whitby, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414393",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415336",
 "source": "Job Bank"
 },
 {
-"title": "Esthetician",
-"company": "Hand & Stone Massage and Facial Spa",
-"location": "Newmarket, Ontario, Canada",
+"title": "Restaurant manager",
+"company": "ONroute",
+"location": "Mallorytown, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414252",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415335",
 "source": "Job Bank"
 },
 {
-"title": "Nurse",
-"company": "HealthOPM",
-"location": "Toronto, Ontario, Canada",
+"title": "Food service supervisor",
+"company": "ONroute",
+"location": "Woodstock, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414263",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415298",
 "source": "Job Bank"
 },
 {
-"title": "Retail sales associate",
-"company": "4Kcannabis",
-"location": "Kingston, Ontario, Canada",
+"title": "Food service supervisor",
+"company": "ONroute",
+"location": "Ingersoll, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414256",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415168",
 "source": "Job Bank"
 },
 {
-"title": "Janitor",
-"company": "Topmax Cleaning Services Inc.",
-"location": "Ajax, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414491",
-"source": "Job Bank"
-},
-{
-"title": "Tire technician",
-"company": "Tirecraft",
-"location": "Morrisburg, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414399",
-"source": "Job Bank"
-},
-{
-"title": "Dental assistant",
-"company": "Whiteoaks dental office",
-"location": "Oakville, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414247",
-"source": "Job Bank"
-},
-{
-"title": "Dental ceramist",
-"company": "Dental Metrics Maven",
+"title": "Hairstylist",
+"company": "SK Hair Salon",
 "location": "Hamilton, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414275",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415139",
 "source": "Job Bank"
 },
 {
-"title": "Scrum master",
-"company": "Upstaff",
+"title": "Barber",
+"company": "SK Barbershop",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415140",
+"source": "Job Bank"
+},
+{
+"title": "Registered nurse (R.N.)",
+"company": "Valleyview Residence",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414793",
+"source": "Job Bank"
+},
+{
+"title": "Personal support worker - home support",
+"company": "VON Canada",
+"location": "Campbellford, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414857",
+"source": "Job Bank"
+},
+{
+"title": "Sales representative, business services",
+"company": "Avenir Energy",
 "location": "Toronto, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414509",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415100",
 "source": "Job Bank"
 },
 {
-"title": "Delivery driver",
-"company": "ADECCO",
-"location": "Vaughan, Ontario, Canada",
+"title": "Visiting nurse",
+"company": "VON Canada",
+"location": "Chatham-Kent, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414476",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415019",
 "source": "Job Bank"
 },
 {
-"title": "Restoration estimator",
-"company": "First Onsite - CA",
-"location": "Pickering, Ontario, Canada",
+"title": "Construction technician",
+"company": "Englobe Corp.",
+"location": "Toronto, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414478",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50415042",
 "source": "Job Bank"
 },
 {
-"title": "Property administrator",
-"company": "The Skyline Group of Companies",
+"title": "Personal support worker - home support",
+"company": "VON Canada",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414694",
+"source": "Job Bank"
+},
+{
+"title": "Home-care worker",
+"company": "VON Canada",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414677",
+"source": "Job Bank"
+},
+{
+"title": "Visiting nurse",
+"company": "VON Canada",
+"location": "Windsor, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414988",
+"source": "Job Bank"
+},
+{
+"title": "Dishwasher",
+"company": "Ward One Smokehouse and Brewery",
 "location": "Guelph, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414369",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414546",
 "source": "Job Bank"
 },
 {
-"title": "Civil engineer",
-"company": "TULLOCH",
-"location": "Greater Sudbury, Ontario, Canada",
+"title": "Gas technician",
+"company": "PRIMEAIR MECHANICAL INC.",
+"location": "Erin, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414323",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414554",
 "source": "Job Bank"
 },
 {
-"title": "Information technology (IT) analyst",
-"company": "NA Freight Forwarding Inc",
-"location": "Barrie, Ontario, Canada",
+"title": "Business systems analyst",
+"company": "ELITE ROYAL INTERNATIONAL CAREER COLLEGE INC.",
+"location": "Scarborough, Ontario, Canada",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414481",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414522",
 "source": "Job Bank"
 },
 {
-"title": "Nurse",
-"company": "Good Shepherd Centres",
-"location": "Hamilton, Ontario, Canada",
+"title": "Assistant Store Manager - The Well",
+"company": "Bailey Nelson",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414480",
-"source": "Job Bank"
-},
-{
-"title": "Engineering manager",
-"company": "Checkfront",
-"location": "Toronto, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414505",
-"source": "Job Bank"
-},
-{
-"title": "Plumber",
-"company": "Royalty Plumbing",
-"location": "Sarnia, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414502",
-"source": "Job Bank"
-},
-{
-"title": "Restoration technician",
-"company": "First Onsite - CA",
-"location": "Hamilton, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414510",
-"source": "Job Bank"
-},
-{
-"title": "Engineering manager",
-"company": "TULLOCH",
-"location": "Greater Sudbury, Ontario, Canada",
-"posted": "2026-10-03",
-"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50414511",
-"source": "Job Bank"
-},
-{
-"title": "Manual Therapy Assistant",
-"company": "Bowmanville Orthoapaedic Physiotherapy Centre",
-"location": "Whitby, ON, CA",
-"posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=c8cb3e70ecd51869",
+"link": "https://ca.indeed.com/viewjob?jk=2c1fbbaf2abb5c5e",
 "source": "Indeed"
 },
 {
-"title": "Medical Receptionist",
-"company": "Multicare clinic",
-"location": "Aurora, ON, CA (remote)",
+"title": "Assistant Branch Manager, Fairview Mall Branch",
+"company": "RBC",
+"location": "Toronto, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=4a22a8e13c73e23d",
+"link": "https://ca.indeed.com/viewjob?jk=ea32f87ecb1a6487",
 "source": "Indeed"
 },
 {
-"title": "Assistant Food and Beverage Operations Manager - Contract",
-"company": "Marriott International",
-"location": "Toronto, ON, CA (remote)",
+"title": "Project Coordinator",
+"company": "Leon's Furniture",
+"location": "Richmond Hill, ON, CA",
 "posted": "2026-10-03",
-"link": "https://ca.indeed.com/viewjob?jk=e96972cad426b7ad",
+"link": "https://ca.indeed.com/viewjob?jk=8da5fba7238d324d",
+"source": "Indeed"
+},
+{
+"title": "Certified Dental Receptionist",
+"company": "River Street Endodontics",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=a80eaee965990e86",
+"source": "Indeed"
+},
+{
+"title": "Administrative Assistant",
+"company": "ASAP Screen Printing Inc.",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=01e65eb5dd4800ec",
+"source": "Indeed"
+},
+{
+"title": "Dental Receptionist",
+"company": "Dental office",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=167109d8399599c3",
+"source": "Indeed"
+},
+{
+"title": "RMT Clinic Receptionist",
+"company": "",
+"location": "North York, ON, CA",
+"posted": "2026-10-03",
+"link": "https://ca.indeed.com/viewjob?jk=cae5ae9dec4e4397",
 "source": "Indeed"
 },
 {
@@ -1328,6 +1592,22 @@
 "posted": "2026-10-03T02:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Toronto-Research-Associate-%28Limited-Term%29-ON/604151717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "La Guadeloupe, QC, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/La-Guadeloupe-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/602871217/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Osgoode, ON, CA",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Osgoode-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-ON/605338617/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
 },
 {
 "title": "Intern, Cabin electrical systems integration (Winter 2027)",
