@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-04T20:20:44+00:00",
+"updated": "2026-10-04T23:28:46+00:00",
 "jobs": [
 {
 "title": "Dental assistant",
@@ -184,6 +184,54 @@
 "posted": "2026-10-04",
 "link": "https://ca.indeed.com/viewjob?jk=4b8721b7f29c9190",
 "source": "Indeed"
+},
+{
+"title": "Unregulated Care Aide - Memory Living",
+"company": "Chartwell Retirement Residences",
+"location": "Welland, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=81c8ed5dc5dd4c14",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Assistant",
+"company": "Allencourt Pharmacy",
+"location": "Richmond Hill, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=82c85d24bbb29fa9",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy assistant",
+"company": "Brantford Commons Pharmacy",
+"location": "Brantford, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50422650",
+"source": "Job Bank"
+},
+{
+"title": "Office Assistant",
+"company": "",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=d214a35b6ee4e573",
+"source": "Indeed"
+},
+{
+"title": "Office Assistant",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=372caa260fc1c8e2",
+"source": "Indeed"
+},
+{
+"title": "Certified dental assistant",
+"company": "Markham Dental Office (Warden/Gibson Drive)",
+"location": "Markham, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50421555",
+"source": "Job Bank"
 },
 {
 "title": "Broadcast Technician",
@@ -2023,6 +2071,14 @@
 "location": "Red Oak, TX, US, 75154",
 "posted": "2026-10-03T02:00:00+00:00",
 "link": "https://jobs.bombardier.com/job/Red-Oak-Painter-Assoc-TX-75154/1433999133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional, Engineering - Interior Integration - Cabinets",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-03T02:00:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering-Interior-Integration-Cabinets-Qu%C3%A9b-H4S-1Y9/1434057533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bombardier careers"
 }
 ]
