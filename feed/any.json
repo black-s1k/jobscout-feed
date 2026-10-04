@@ -1,84 +1,380 @@
 {
-"updated": "2026-10-04T06:15:05+00:00",
+"updated": "2026-10-04T12:44:46+00:00",
 "jobs": [
 {
-"title": "Veterinary Assistant/Receptionist",
-"company": "Aurora North Pet Clinic",
-"location": "Aurora, ON, CA",
-"posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=5c2e385ea113b6b7",
-"source": "Indeed"
-},
-{
-"title": "RMT诊所招聘前台 Receptionist | 北约克",
-"company": "",
-"location": "North York, ON, CA",
-"posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=406fde02884cb595",
-"source": "Indeed"
-},
-{
-"title": "Experienced Toddler Nanny/Family Assistant – Travel Required",
-"company": "Exclusive Rental Retreats",
+"title": "Medical Office Assistant",
+"company": "Adelaide Medical Clinic",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=82e6e63571991c82",
+"link": "https://ca.indeed.com/viewjob?jk=6ad92d9e55176ce9",
 "source": "Indeed"
 },
 {
-"title": "Kitchen Assistant",
-"company": "Diamond Sushi - South",
-"location": "Barrie, ON, CA",
+"title": "Sales Assistant, Cashier / Vendeuse, Caissière",
+"company": "Crazy Halloween",
+"location": "Bramalea, ON, CA",
 "posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=73b96dbeb5dceee5",
+"link": "https://ca.indeed.com/viewjob?jk=ae668aa1eb19c64b",
 "source": "Indeed"
 },
 {
-"title": "Office Secretary",
-"company": "Bilink Legal Solution Inc",
-"location": "Markham, ON, CA",
+"title": "Sales Assistant, Cashier / Vendeuse, Caissière",
+"company": "Crazy Halloween",
+"location": "Hamilton, ON, CA",
 "posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=2b6fa762e052f510",
+"link": "https://ca.indeed.com/viewjob?jk=aedde9df01d2e04d",
 "source": "Indeed"
 },
 {
-"title": "Server Assistant",
-"company": "Bar Butcher",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=0b43d795f077d139",
-"source": "Indeed"
-},
-{
-"title": "Office Administrator Assistant",
-"company": "Eco Choice Windows & Doors",
-"location": "Vaughan, ON, CA",
-"posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=6c642a9426515b0c",
-"source": "Indeed"
-},
-{
-"title": "Dental Hygienist",
-"company": "",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=55a3da7199a01808",
-"source": "Indeed"
-},
-{
-"title": "AI Implementation Consultant",
-"company": "OpenTeam.AI",
-"location": "Toronto, ON, CA (remote)",
-"posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=d92a2f6b6d0ff167",
-"source": "Indeed"
-},
-{
-"title": "General Labour",
-"company": "Optical Thirty 8 - Ajax",
+"title": "Automotive Service Administrator/Receptionist",
+"company": "TABANGI MOTORS",
 "location": "Mississauga, ON, CA",
 "posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=200f64b8964db94f",
+"link": "https://ca.indeed.com/viewjob?jk=2156767dc9354dde",
+"source": "Indeed"
+},
+{
+"title": "Dental assistant",
+"company": "Krest One Dental",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419035",
+"source": "Job Bank"
+},
+{
+"title": "Dental assistant",
+"company": "Dr,issa dentistry",
+"location": "Nepean, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419040",
+"source": "Job Bank"
+},
+{
+"title": "Dental receptionist",
+"company": "Dr,issa dentistry",
+"location": "Gloucester, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419041",
+"source": "Job Bank"
+},
+{
+"title": "First cook",
+"company": "IN'S KITCHEN",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419059",
+"source": "Job Bank"
+},
+{
+"title": "Guard, security",
+"company": "SECURE SHIELD SECURITY",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419075",
+"source": "Job Bank"
+},
+{
+"title": "Personal support worker - home support",
+"company": "Homes First",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419169",
+"source": "Job Bank"
+},
+{
+"title": "Cook",
+"company": "Homes First",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419170",
+"source": "Job Bank"
+},
+{
+"title": "Product engineer",
+"company": "Leading Edge",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419712",
+"source": "Job Bank"
+},
+{
+"title": "Cook",
+"company": "Spark Lifecare",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419708",
+"source": "Job Bank"
+},
+{
+"title": "Cloud engineer",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419706",
+"source": "Job Bank"
+},
+{
+"title": "Physiotherapist",
+"company": "HealthOPM",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419703",
+"source": "Job Bank"
+},
+{
+"title": "Software developer",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419698",
+"source": "Job Bank"
+},
+{
+"title": "Registered kinesiologist",
+"company": "Spark Lifecare",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419691",
+"source": "Job Bank"
+},
+{
+"title": "Data scientist",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419711",
+"source": "Job Bank"
+},
+{
+"title": "Emergency nurse",
+"company": "Backline Outsourcing",
+"location": "Thunder Bay, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419686",
+"source": "Job Bank"
+},
+{
+"title": "Web developer",
+"company": "YO AI Labs",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419683",
+"source": "Job Bank"
+},
+{
+"title": "Portfolio manager",
+"company": "Melbourne Property Management Inc.",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419472",
+"source": "Job Bank"
+},
+{
+"title": "Diversity manager",
+"company": "Melbourne Property Management Inc.",
+"location": "Burlington, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419478",
+"source": "Job Bank"
+},
+{
+"title": "Software developer",
+"company": "YO AI Labs",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419676",
+"source": "Job Bank"
+},
+{
+"title": "General",
+"company": "Recruit Without Borders",
+"location": "Ottawa, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419700",
+"source": "Job Bank"
+},
+{
+"title": "Financial sales and service officer",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419673",
+"source": "Job Bank"
+},
+{
+"title": "Emergency nurse",
+"company": "HealthOPM",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419517",
+"source": "Job Bank"
+},
+{
+"title": "Architect",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419707",
+"source": "Job Bank"
+},
+{
+"title": "Companion",
+"company": "Spark Lifecare",
+"location": "Pickering, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419671",
+"source": "Job Bank"
+},
+{
+"title": "Web developer",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419584",
+"source": "Job Bank"
+},
+{
+"title": "Compensation researcher-analyst",
+"company": "Englobe Corp.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419585",
+"source": "Job Bank"
+},
+{
+"title": "Property manager",
+"company": "4Sight Search Solutions Inc.",
+"location": "Milton, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420243",
+"source": "Job Bank"
+},
+{
+"title": "Property manager",
+"company": "4Sight Search Solutions Inc.",
+"location": "Guelph, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420203",
+"source": "Job Bank"
+},
+{
+"title": "Office manager",
+"company": "Binners Inc.",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420173",
+"source": "Job Bank"
+},
+{
+"title": "Model",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420200",
+"source": "Job Bank"
+},
+{
+"title": "Broker, insurance",
+"company": "deVere Insurance Canada",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420168",
+"source": "Job Bank"
+},
+{
+"title": "Architect",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420277",
+"source": "Job Bank"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Source Code",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420260",
+"source": "Job Bank"
+},
+{
+"title": "Communications expert",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420256",
+"source": "Job Bank"
+},
+{
+"title": "Information technology (IT) analyst",
+"company": "Mercor",
+"location": "Toronto, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420258",
+"source": "Job Bank"
+},
+{
+"title": "Flat roofer",
+"company": "Dufferin Roofing Ltd",
+"location": "North York, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420319",
+"source": "Job Bank"
+},
+{
+"title": "Steward I",
+"company": "Aramark",
+"location": "St. Catharines, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=98f325716b5d3750",
+"source": "Indeed"
+},
+{
+"title": "Intern",
+"company": "Cementation Canada",
+"location": "North Bay, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420282",
+"source": "Job Bank"
+},
+{
+"title": "Pharmacy Intern, Hourly Part Time Day",
+"company": "Shoppers Drug Mart",
+"location": "Milton, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=80cf923c1e5e0227",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Intern, Hourly Part Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Milton, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=fbccd5639bca4c55",
+"source": "Indeed"
+},
+{
+"title": "Home child care provider",
+"company": "TEJINDER KAUR",
+"location": "Kitchener, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419186",
+"source": "Job Bank"
+},
+{
+"title": "Family caregiver",
+"company": "NICK CAPASSO",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-04",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50420317",
+"source": "Job Bank"
+},
+{
+"title": "Pharmacy Intern, Hourly Full Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=3c68dc102528ff21",
 "source": "Indeed"
 },
 {
@@ -90,12 +386,148 @@
 "source": "Indeed"
 },
 {
-"title": "Pharmacy Intern, Hourly Full Time Flexible Shifts",
-"company": "Shoppers Drug Mart",
-"location": "Hamilton, ON, CA",
+"title": "General Labour",
+"company": "Optical Thirty 8 - Ajax",
+"location": "Mississauga, ON, CA",
 "posted": "2026-10-04",
-"link": "https://ca.indeed.com/viewjob?jk=3c68dc102528ff21",
+"link": "https://ca.indeed.com/viewjob?jk=200f64b8964db94f",
 "source": "Indeed"
+},
+{
+"title": "AI Implementation Consultant",
+"company": "OpenTeam.AI",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=d92a2f6b6d0ff167",
+"source": "Indeed"
+},
+{
+"title": "Dental Hygienist",
+"company": "",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=55a3da7199a01808",
+"source": "Indeed"
+},
+{
+"title": "Office Administrator Assistant",
+"company": "Eco Choice Windows & Doors",
+"location": "Vaughan, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=6c642a9426515b0c",
+"source": "Indeed"
+},
+{
+"title": "Server Assistant",
+"company": "Bar Butcher",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=0b43d795f077d139",
+"source": "Indeed"
+},
+{
+"title": "Office Secretary",
+"company": "Bilink Legal Solution Inc",
+"location": "Markham, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=2b6fa762e052f510",
+"source": "Indeed"
+},
+{
+"title": "Kitchen Assistant",
+"company": "Diamond Sushi - South",
+"location": "Barrie, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=73b96dbeb5dceee5",
+"source": "Indeed"
+},
+{
+"title": "Experienced Toddler Nanny/Family Assistant – Travel Required",
+"company": "Exclusive Rental Retreats",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=82e6e63571991c82",
+"source": "Indeed"
+},
+{
+"title": "RMT诊所招聘前台 Receptionist | 北约克",
+"company": "",
+"location": "North York, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=406fde02884cb595",
+"source": "Indeed"
+},
+{
+"title": "Veterinary Assistant/Receptionist",
+"company": "Aurora North Pet Clinic",
+"location": "Aurora, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=5c2e385ea113b6b7",
+"source": "Indeed"
+},
+{
+"title": "Broadcast Technician",
+"company": "Rogers",
+"location": "Vancouver, BC, CA",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Vancouver-Broadcast-Technician-BC/1417061600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Assistant Store Manager",
+"company": "Rogers",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Mississauga-Assistant-Store-Manager-ON/1417068300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Retail Sales Associate, Dryden",
+"company": "Bell",
+"location": "Dryden, ON, CA",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Dryden-Retail-Sales-Associate%2C-Dryden-ON/1397402500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Dryden",
+"company": "Bell",
+"location": "Dryden, ON, CA",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Dryden-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Dryden-ON/1397402600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Representant vente au detail saisonnier, Jackson Square",
+"company": "Bell",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Hamilton-Representant-vente-au-detail-saisonnier%2C-Jackson-Square-ON/1427114400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Jackson Square",
+"company": "Bell",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Hamilton-Seasonal-Retail-Sales-Associate%2C-Jackson-Square-ON/1427114500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Tradesperson Licenced - Millwright -Richmond",
+"company": "Purolator",
+"location": "Richmond, British Columbia, CA, V7B 1M5",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Richmond-Tradesperson-Licenced-Millwright-Richmond-Brit-V7B-1M5/1381830800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Mechanic Trailer",
+"company": "Purolator",
+"location": "Saint-Laurent, Quebec, CA, H4S 2E7",
+"posted": "2026-10-04T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Saint-Laurent-Mechanic-Trailer-Queb-H4S-2E7/1407267600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
 },
 {
 "title": "Full & Part Sales Representative | Ottawa",
@@ -448,6 +880,14 @@
 "posted": "2026-10-04T02:00:00+00:00",
 "link": "https://jobs.utoronto.ca/job/Mississauga-Assistant-Professor-Palaeoanthropology-ON/605033117/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "University of Toronto careers"
+},
+{
+"title": "Maître de poste - Local fourni par le Maître de poste - (catégorie groupe)",
+"company": "Canada Post",
+"location": "Ste Agathe, MB, CA",
+"posted": "2026-10-04T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Ste-Agathe-Ma%C3%AEtre-de-poste-Local-fourni-par-le-Ma%C3%AEtre-de-poste-%28cat%C3%A9gorie-groupe%29-MB/605865717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
 },
 {
 "title": "Medical Receptionist",
@@ -2298,6 +2738,54 @@
 "source": "Indeed"
 },
 {
+"title": "Nanny",
+"company": "Georgeta Iacobelli and Giulio Iacobelli",
+"location": "Etobicoke, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419029",
+"source": "Job Bank"
+},
+{
+"title": "Personal care provider - home care",
+"company": "PIA DEGASPERIS",
+"location": "Maple, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419028",
+"source": "Job Bank"
+},
+{
+"title": "Nanny",
+"company": "Sara Slavin",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419026",
+"source": "Job Bank"
+},
+{
+"title": "Home child care provider",
+"company": "JASPAL SINGH",
+"location": "Brampton, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419016",
+"source": "Job Bank"
+},
+{
+"title": "Apprentice electrician, construction",
+"company": "Jecxo Electrical & Renovation",
+"location": "Caledon, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419027",
+"source": "Job Bank"
+},
+{
+"title": "Restaurant manager",
+"company": "King Tandoori Drew",
+"location": "Mississauga, Ontario, Canada",
+"posted": "2026-10-03",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50419025",
+"source": "Job Bank"
+},
+{
 "title": "Sr. Manager, Media Support Services",
 "company": "Rogers",
 "location": "Toronto, ON, CA",
@@ -2559,6 +3047,14 @@
 "location": "Montmagny, QC, CA",
 "posted": "2026-10-03T07:00:00+00:00",
 "link": "https://jobs.bce.ca/Best-Buy-Express/job/Montmagny-Retail-Sales-Associate%2C-Les-Galeries-Montmagny-QC/1426755100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Representant vente au detail saisonnier, Fairview Park Mall",
+"company": "Bell",
+"location": "Kitchener, ON, CA",
+"posted": "2026-10-03T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Kitchener-Representant-vente-au-detail-saisonnier%2C-Fairview-Park-Mall-ON/1427073700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Bell careers"
 },
 {
@@ -8144,222 +8640,6 @@
 "posted": "2026-10-02",
 "link": "https://ca.indeed.com/viewjob?jk=983ff5d8ce07b779",
 "source": "Indeed"
-},
-{
-"title": "Sales Associate",
-"company": "Rogers",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Edmonton-Sales-Associate-AB/1426546500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Program Movement Specialist",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Program-Movement-Specialist-ON/1426538800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Parajuriste - Recours juridiques, Montréal",
-"company": "Rogers",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Montreal-Parajuriste-Recours-juridiques%2C-Montr%C3%A9al-QC/1426545100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Law Clerk",
-"company": "Rogers",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Montreal-Law-Clerk-QC/1426545000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Vendor Manager",
-"company": "Rogers",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Brampton-Vendor-Manager-ON/1426445900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Manager, Transportation Ops",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Manager%2C-Transportation-Ops-ON/1406453000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Sales Associate",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Sales-Associate-ON/1426395400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Coordinator Media Revenue Management",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Coordinator-Media-Revenue-Management-ON/1426564900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Représentant vente au détail, English Estates",
-"company": "Bell",
-"location": "Lacombe, AB, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Lacombe-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-English-Estates-AB/1426222000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, English Estates",
-"company": "Bell",
-"location": "Lacombe, AB, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Lacombe-Seasonal-Retail-Sales-Associate%2C-English-Estates-AB/1426222100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant de vente au detail saisonnier, Douglastown",
-"company": "Bell",
-"location": "Miramichi, NB, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Miramichi-Repr%C3%A9sentant-de-vente-au-detail-saisonnier%2C-Douglastown-NB/1426315700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Sales Consultant, Douglastown",
-"company": "Bell",
-"location": "Miramichi, NB, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Miramichi-Seasonal-Sales-Consultant%2C-Douglastown-NB/1426315800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Retail Sales Associate, Oakville Place",
-"company": "Bell",
-"location": "Oakville, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Oakville-Retail-Sales-Associate%2C-Oakville-Place-ON/1426219200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Plaza Cote de Neiges",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Seasonal-Retail-Sales-Associate%2C-Plaza-Cote-de-Neiges-QC/1426581800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail saisonnier, Plaza Cote des Neiges",
-"company": "Bell",
-"location": "Montréal, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail-saisonnier%2C-Plaza-Cote-des-Neiges-QC/1426581700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail, saisonnier, Carrefour Angrignon",
-"company": "Bell",
-"location": "Montréal, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Carrefour-Angrignon-QC/1426584400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Carrefour Angrignon",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Seasonal-Retail-Sales-Associate%2C-Carrefour-Angrignon-QC/1426584500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate , Laurier Quebec",
-"company": "Bell",
-"location": "Quebec City, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Quebec-City-Seasonal-Retail-Sales-Associate-%2C-Laurier-Quebec-QC/1426572700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Conseiller aux ventes, saisonnier , Laurier Quebec",
-"company": "Bell",
-"location": "Ville de Québec, QC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Ville-de-Qu%C3%A9bec-Conseiller-aux-ventes%2C-saisonnier-%2C-Laurier-Quebec-QC/1426572600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail, Oakville Place",
-"company": "Bell",
-"location": "Oakville, ON, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Oakville-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Oakville-Place-ON/1426219300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Gestionnaire principal., exploitation des immeubles, Saskatchewan",
-"company": "Bell",
-"location": "Regina, SK, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Regina-Gestionnaire-principal_%2C-exploitation-des-immeubles%2C-Saskatchewan-SK/1416420000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Senior Manager, Real Estate Operations, Saskatchewan",
-"company": "Bell",
-"location": "Regina, SK, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Regina-Senior-Manager%2C-Real-Estate-Operations%2C-Saskatchewan-SK/1416420100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Gest. princ., exploitation des immeubles, BC",
-"company": "Bell",
-"location": "Kamloops, BC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kamloops-Gest_-princ_%2C-exploitation-des-immeubles%2C-BC-BC/1416413500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Senior Manager, AI Data Centre Operations, BC",
-"company": "Bell",
-"location": "Kamloops, BC, CA",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kamloops-Senior-Manager%2C-AI-Data-Centre-Operations%2C-BC-BC/1416413400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Courier Utility - Burnaby",
-"company": "Purolator",
-"location": "Burnaby, British Columbia, CA, V5C 5A9",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://careers.purolator.com/job/Burnaby-Courier-Utility-Burnaby-Brit-V5C-5A9/1426476800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
-},
-{
-"title": "Utility Courier",
-"company": "Purolator",
-"location": "Sudbury, ON, CA, P3E 5P4",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://careers.purolator.com/job/Sudbury-Utility-Courier-ON-P3E-5P4/1426608400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
-},
-{
-"title": "Manutentionnaire AM",
-"company": "Purolator",
-"location": "Candiac, Quebec, CA, J5R 0A1",
-"posted": "2026-10-02T07:00:00+00:00",
-"link": "https://careers.purolator.com/job/Candiac-Manutentionnaire-AM-Queb-J5R-0A1/1426561500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
 }
 ]
 }
