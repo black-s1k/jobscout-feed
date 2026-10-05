@@ -1,28 +1,108 @@
 {
-"updated": "2026-10-05T02:19:30+00:00",
+"updated": "2026-10-05T09:28:35+00:00",
 "jobs": [
 {
-"title": "Chiropractor",
-"company": "Bright Health Co",
-"location": "Toronto, ON, CA",
+"title": "Receptionist/Administration",
+"company": "Inspire2Immigrate Inc.",
+"location": "Mississauga, ON, CA",
 "posted": "2026-10-05",
-"link": "https://ca.indeed.com/viewjob?jk=57af3ce1f3355df2",
+"link": "https://ca.indeed.com/viewjob?jk=ed8f6ca80db2b5d3",
 "source": "Indeed"
 },
 {
-"title": "Dental Receptionist",
-"company": "BiteCraft Dental",
-"location": "Vaughan, ON, CA",
+"title": "Pharmacy Assistant, Hourly Part Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Ancaster, ON, CA",
 "posted": "2026-10-05",
-"link": "https://ca.indeed.com/viewjob?jk=f1d82781feff6c7e",
+"link": "https://ca.indeed.com/viewjob?jk=8193fecf0fb49660",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Assistant, Hourly Full Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=c2cfa96d7377a2a8",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Assistant, Hourly Part Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Binbrook, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=0c28ee1b75ca94f9",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Assistant, Hourly Part Time Day",
+"company": "Shoppers Drug Mart",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=b9de908f97865d98",
+"source": "Indeed"
+},
+{
+"title": "Pharmacy Assistant, Hourly Part Time Flexible Shifts",
+"company": "Shoppers Drug Mart",
+"location": "Hamilton, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=cfbc5510c7309240",
 "source": "Indeed"
 },
 {
 "title": "Pharmacy Assistant",
-"company": "",
-"location": "Burlington, ON, CA",
+"company": "Pillway",
+"location": "Brampton, ON, CA",
 "posted": "2026-10-05",
-"link": "https://ca.indeed.com/viewjob?jk=c1ec15c4be23ffbb",
+"link": "https://ca.indeed.com/viewjob?jk=0b42dbe7f6fa1ebc",
+"source": "Indeed"
+},
+{
+"title": "Registered nurse (R.N.)",
+"company": "VON Canada",
+"location": "Hamilton, Ontario, Canada",
+"posted": "2026-10-05",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50424457",
+"source": "Job Bank"
+},
+{
+"title": "Registered Nurse",
+"company": "SE Health",
+"location": "Innisfil, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=b3574f0d38a53541",
+"source": "Indeed"
+},
+{
+"title": "Med/Surg RN",
+"company": "HiredFirst",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=f29ad8dc490cd368",
+"source": "Indeed"
+},
+{
+"title": "Director of Care ( RN)",
+"company": "MedMatch Recruitment",
+"location": "Grimsby, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=d02034f82cb1aa7b",
+"source": "Indeed"
+},
+{
+"title": "PUBLIC HEALTH NURSE",
+"company": "City of Toronto",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=49b8d21b5563ae34",
+"source": "Indeed"
+},
+{
+"title": "Registered Nurse Expert Academic Reviewer - Remote",
+"company": "",
+"location": "Toronto, ON, CA (remote)",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=d62ee1bea4626c2a",
 "source": "Indeed"
 },
 {
@@ -34,12 +114,84 @@
 "source": "Indeed"
 },
 {
-"title": "Registered Nurse Expert Academic Reviewer - Remote",
+"title": "Pharmacy Assistant",
 "company": "",
-"location": "Toronto, ON, CA (remote)",
+"location": "Burlington, ON, CA",
 "posted": "2026-10-05",
-"link": "https://ca.indeed.com/viewjob?jk=d62ee1bea4626c2a",
+"link": "https://ca.indeed.com/viewjob?jk=c1ec15c4be23ffbb",
 "source": "Indeed"
+},
+{
+"title": "Dental Receptionist",
+"company": "BiteCraft Dental",
+"location": "Vaughan, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=f1d82781feff6c7e",
+"source": "Indeed"
+},
+{
+"title": "Chiropractor",
+"company": "Bright Health Co",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-05",
+"link": "https://ca.indeed.com/viewjob?jk=57af3ce1f3355df2",
+"source": "Indeed"
+},
+{
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Sales-Associate-ON/1417294900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Assistant Store Manager",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Assistant-Store-Manager-QC/1398084400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Manager, Finance",
+"company": "Rogers",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Calgary-Manager%2C-Finance-AB/1407730100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "System Technician",
+"company": "Rogers",
+"location": "St. Albert, AB, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/St_-Albert-System-Technician-AB/1407725900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Gestionnaire Adjoint.e de Magasin",
+"company": "Rogers",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Montreal-Gestionnaire-Adjoint_e-de-Magasin-QC/1398084300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Représentant vente au détail, Place Vertu",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Place-Vertu-QC/1407548000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Place Vertu",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-05T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Retail-Sales-Associate%2C-Place-Vertu-QC/1407548100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Account Specialist (Hybrid) - Small Medium Business",
@@ -626,11 +778,19 @@
 "source": "Indeed"
 },
 {
-"title": "Dental Receptionist/Assistant",
+"title": "Orthodontic Receptionist/Assistant",
 "company": "Orthodontics Clinic",
 "location": "Pickering, ON, CA",
 "posted": "2026-10-04",
 "link": "https://ca.indeed.com/viewjob?jk=a25f91fe0d7eb7f3",
+"source": "Indeed"
+},
+{
+"title": "Dental Receptionist",
+"company": "Emerald Dental Care",
+"location": "Stouffville, ON, CA",
+"posted": "2026-10-04",
+"link": "https://ca.indeed.com/viewjob?jk=586d81c78c6c0386",
 "source": "Indeed"
 },
 {
@@ -1528,278 +1688,6 @@
 "posted": "2026-10-03",
 "link": "https://ca.indeed.com/viewjob?jk=579313d93bae5968",
 "source": "Indeed"
-},
-{
-"title": "Sr. Manager, Media Support Services",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Sr_-Manager%2C-Media-Support-Services-ON/1416579100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Senior Financial Analyst",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Senior-Financial-Analyst-ON/1427019700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Sales Associate",
-"company": "Rogers",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Winnipeg-Sales-Associate-MB/1406911300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Broadcast Technician II",
-"company": "Rogers",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Toronto-Broadcast-Technician-II-ON/1416753800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Représentant vente au détail, saisonnier, Plaza St-Hubert",
-"company": "Bell",
-"location": "Montréal, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Plaza-St-Hubert-QC/1426981300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail, saisonnier, Kingsway Garden Mall",
-"company": "Bell",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Edmonton-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Kingsway-Garden-Mall-AB/1427000500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail, saisonnier, Galeries d'Anjou",
-"company": "Bell",
-"location": "Anjou, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Anjou-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Galeries-d'Anjou-QC/1426984600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant de vente au detail saisonnier, Lloydminster",
-"company": "Bell",
-"location": "Lloydminster, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Lloydminster-Repr%C3%A9sentant-de-vente-au-detail-saisonnier%2C-Lloydminster-AB/1426998900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Centennial Plaza",
-"company": "Bell",
-"location": "St. Paul, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/St_-Paul-Seasonal-Retail-Sales-Associate%2C-Centennial-Plaza-AB/1426891500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Les Galeries d'Anjou",
-"company": "Bell",
-"location": "Anjou, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Anjou-Seasonal-Retail-Sales-Associate%2C-Les-Galeries-d'Anjou-QC/1426984700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "SeasonalRetail Sales Associate, Montreal Ste Catherine",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-SeasonalRetail-Sales-Associate%2C-Montreal-Ste-Catherine-QC/1426963900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Sales Consultant, The Core",
-"company": "Bell",
-"location": "Calgary, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Calgary-Seasonal-Sales-Consultant%2C-The-Core-AB/1427004400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant de vente au detail saisonnier, St. Albert",
-"company": "Bell",
-"location": "St. Albert, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/St_-Albert-Repr%C3%A9sentant-de-vente-au-detail-saisonnier%2C-St_-Albert-AB/1427000000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant de vente au détail, Les Galeries Montmagny",
-"company": "Bell",
-"location": "Montmagny, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montmagny-Repr%C3%A9sentant-de-vente-au-d%C3%A9tail%2C-Les-Galeries-Montmagny-QC/1426755000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Conseiller, ingénierie des systèmes TIC, Epic",
-"company": "Bell",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Winnipeg-Conseiller%2C-ing%C3%A9nierie-des-syst%C3%A8mes%C2%A0TIC%2C-Epic-MB/1376663700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Consultant, ICT Systems Engineering, Level 3, Epic",
-"company": "Bell",
-"location": "Winnipeg, MB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Winnipeg-Consultant%2C-ICT-Systems-Engineering%2C-Level-3%2C-Epic-MB/1376663800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Representant vente au detail saisonnier, Smartcentres Chatham",
-"company": "Bell",
-"location": "Chatham-Kent, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Chatham-Kent-Representant-vente-au-detail-saisonnier%2C-Smartcentres-Chatham-ON/1427090600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Representant vente au detail saisonnier, Conestoga Mall",
-"company": "Bell",
-"location": "Kitchener, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kitchener-Representant-vente-au-detail-saisonnier%2C-Conestoga-Mall-ON/1427095800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail, saisonnier, Centennial Plaza",
-"company": "Bell",
-"location": "St. Paul, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/St_-Paul-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Centennial-Plaza-AB/1426891600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Grand Prairie",
-"company": "Bell",
-"location": "Grande Prairie, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Grande-Prairie-Seasonal-Retail-Sales-Associate%2C-Grand-Prairie-AB/1427001400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, St. Albert",
-"company": "Bell",
-"location": "St. Albert, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/St_-Albert-Seasonal-Retail-Sales-Associate%2C-St_-Albert-AB/1426999900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Representant vente au detail saisonnier, Ottawa St. South",
-"company": "Bell",
-"location": "Kitchener, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kitchener-Representant-vente-au-detail-saisonnier%2C-Ottawa-St_-South-ON/1427084100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Représentant vente au détail, saisonnier, Montréal Ste-Catherine",
-"company": "Bell",
-"location": "Montréal, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Montr%C3%A9al-Ste-Catherine-QC/1426963800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Plaza St-Hubert",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Seasonal-Retail-Sales-Associate%2C-Plaza-St-Hubert-QC/1426981400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Lloydminster",
-"company": "Bell",
-"location": "Lloydminster, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Lloydminster-Seasonal-Retail-Sales-Associate%2C-Lloydminster-AB/1426998800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Retail Sales Associate, Ottawa St South",
-"company": "Bell",
-"location": "Kitchener, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kitchener-Retail-Sales-Associate%2C-Ottawa-St-South-ON/1427084000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Kingsway Garden Mall",
-"company": "Bell",
-"location": "Edmonton, AB, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Edmonton-Seasonal-Retail-Sales-Associate%2C-Kingsway-Garden-Mall-AB/1427000400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Retail Seasonal Sales Associate, Fairview Park Mall",
-"company": "Bell",
-"location": "Kitchener, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kitchener-Retail-Seasonal-Sales-Associate%2C-Fairview-Park-Mall-ON/1427073800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Smartcentres Chatham, Non-mgmt",
-"company": "Bell",
-"location": "Chatham-Kent, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Chatham-Kent-Seasonal-Retail-Sales-Associate%2C-Smartcentres-Chatham%2C-Non-mgmt-ON/1427090700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Seasonal Retail Sales Associate, Conestoga Mall",
-"company": "Bell",
-"location": "Kitchener, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kitchener-Seasonal-Retail-Sales-Associate%2C-Conestoga-Mall-ON/1427095700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Manutentionnaire AM",
-"company": "Purolator",
-"location": "Boucherville, Québec, CA, J4B 6H5",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://careers.purolator.com/job/Boucherville-Manutentionnaire-AM-Qu%C3%A9b-J4B-6H5/1426813500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
-},
-{
-"title": "Senior Application Security Analyst",
-"company": "Purolator",
-"location": "Mississauga, ON, CA, L5N 0E1",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://careers.purolator.com/job/Mississauga-Senior-Application-Security-Analyst-ON-L5N-0E1/1373824800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Purolator careers"
-},
-{
-"title": "Retail Sales Associate, Les Galeries Montmagny",
-"company": "Bell",
-"location": "Montmagny, QC, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montmagny-Retail-Sales-Associate%2C-Les-Galeries-Montmagny-QC/1426755100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Representant vente au detail saisonnier, Fairview Park Mall",
-"company": "Bell",
-"location": "Kitchener, ON, CA",
-"posted": "2026-10-03T07:00:00+00:00",
-"link": "https://jobs.bce.ca/bell/job/Kitchener-Representant-vente-au-detail-saisonnier%2C-Fairview-Park-Mall-ON/1427073700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
 }
 ]
 }
