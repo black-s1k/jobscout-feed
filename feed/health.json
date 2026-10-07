@@ -1,60 +1,84 @@
 {
-"updated": "2026-10-07T04:32:43+00:00",
+"updated": "2026-10-07T11:32:24+00:00",
 "jobs": [
 {
-"title": "Osteopath",
-"company": "Sheppard Clinic",
-"location": "North York, ON, CA",
+"title": "Receptionist/ Optometry Assistant",
+"company": "markham optometry",
+"location": "Markham, ON, CA",
 "posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=477228112b845d9b",
+"link": "https://ca.indeed.com/viewjob?jk=02ab34e56a06612b",
 "source": "Indeed"
 },
 {
-"title": "Dental Receptionist",
-"company": "Karen Dental",
-"location": "Mississauga, ON, CA",
+"title": "Medical Secretary / Medical Office Administrator",
+"company": "",
+"location": "Guelph, ON, CA",
 "posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=09d41181d9ed3005",
+"link": "https://ca.indeed.com/viewjob?jk=b11ee10a7c9f04c9",
 "source": "Indeed"
 },
 {
-"title": "Level 2 Dental Assistant",
-"company": "dentistry@mt pleasant square",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=3a7d023a233e7637",
-"source": "Indeed"
-},
-{
-"title": "Optometric Assistant/Receptionist",
-"company": "Metro Eye Care",
-"location": "Toronto, ON, CA",
-"posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=2571063c3c49137a",
-"source": "Indeed"
-},
-{
-"title": "Compounding pharmacy assistant",
-"company": "CLARITY COMPOUNDING LAB",
+"title": "Pharmacy Assistant, Hourly Part Time Flexible Shifts Greenlight Requisition",
+"company": "Shoppers Drug Mart",
 "location": "Oakville, ON, CA",
 "posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=c69a09b0e7250da0",
+"link": "https://ca.indeed.com/viewjob?jk=b5f438402fe59eb6",
 "source": "Indeed"
 },
 {
-"title": "Personal Assistant/Carer",
-"company": "Wheelchair1derWoman",
+"title": "Pharmacy Assistant, Hourly Part Time Evening",
+"company": "Shoppers Drug Mart",
 "location": "Toronto, ON, CA",
 "posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=22b7e0044b6e1e31",
+"link": "https://ca.indeed.com/viewjob?jk=f6ae0f91967eac87",
 "source": "Indeed"
 },
 {
-"title": "Personal Support Worker (PSW) - Casual",
-"company": "Cogir Senior Living Canada",
+"title": "Personal support worker - home support",
+"company": "VON Canada",
+"location": "London, Ontario, Canada",
+"posted": "2026-10-07",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50443458",
+"source": "Job Bank"
+},
+{
+"title": "Personal support worker - home support",
+"company": "VON Canada",
+"location": "Various locations, Canada",
+"posted": "2026-10-07",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50443401",
+"source": "Job Bank"
+},
+{
+"title": "Personal Support Worker Reg PT [RBR PSW D C58 0.40] AgeCare Brant",
+"company": "AgeCare",
 "location": "Burlington, ON, CA",
 "posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=b23697e56fd84ea3",
+"link": "https://ca.indeed.com/viewjob?jk=1a6399fc7ce3d30b",
+"source": "Indeed"
+},
+{
+"title": "Registered practical nurse (R.P.N.)",
+"company": "VON Canada",
+"location": "Woodstock, Ontario, Canada",
+"posted": "2026-10-07",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50443355",
+"source": "Job Bank"
+},
+{
+"title": "Registered nurse (R.N.)",
+"company": "VON Canada",
+"location": "Various locations, Canada",
+"posted": "2026-10-07",
+"link": "https://www.jobbank.gc.ca/jobsearch/jobposting/50443442",
+"source": "Job Bank"
+},
+{
+"title": "Part-Time Developmental Support Worker- Adult Services",
+"company": "Bethesda Community Services",
+"location": "Vineland, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=2a61379e45fb8db6",
 "source": "Indeed"
 },
 {
@@ -66,12 +90,484 @@
 "source": "Indeed"
 },
 {
-"title": "Part-Time Developmental Support Worker- Adult Services",
-"company": "Bethesda Community Services",
-"location": "Vineland, ON, CA",
+"title": "Personal Support Worker (PSW) - Casual",
+"company": "Cogir Senior Living Canada",
+"location": "Burlington, ON, CA",
 "posted": "2026-10-07",
-"link": "https://ca.indeed.com/viewjob?jk=2a61379e45fb8db6",
+"link": "https://ca.indeed.com/viewjob?jk=b23697e56fd84ea3",
 "source": "Indeed"
+},
+{
+"title": "Personal Assistant/Carer",
+"company": "Wheelchair1derWoman",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=22b7e0044b6e1e31",
+"source": "Indeed"
+},
+{
+"title": "Compounding pharmacy assistant",
+"company": "CLARITY COMPOUNDING LAB",
+"location": "Oakville, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=c69a09b0e7250da0",
+"source": "Indeed"
+},
+{
+"title": "Optometric Assistant/Receptionist",
+"company": "Metro Eye Care",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=2571063c3c49137a",
+"source": "Indeed"
+},
+{
+"title": "Level 2 Dental Assistant",
+"company": "dentistry@mt pleasant square",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=3a7d023a233e7637",
+"source": "Indeed"
+},
+{
+"title": "Dental Receptionist",
+"company": "Karen Dental",
+"location": "Mississauga, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=09d41181d9ed3005",
+"source": "Indeed"
+},
+{
+"title": "Osteopath",
+"company": "Sheppard Clinic",
+"location": "North York, ON, CA",
+"posted": "2026-10-07",
+"link": "https://ca.indeed.com/viewjob?jk=477228112b845d9b",
+"source": "Indeed"
+},
+{
+"title": "Senior Financial Analyst",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Senior-Financial-Analyst-ON/1427489800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Account Executive, Field Sales",
+"company": "Rogers",
+"location": "Saskatoon, SK, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Saskatoon-Account-Executive%2C-Field-Sales-SK/1427491800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Retail Territory Representative",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Retail-Territory-Representative-ON/1427632500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Manager, Collections",
+"company": "Rogers",
+"location": "Calgary, AB, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Calgary-Manager%2C-Collections-AB/1417670300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "- Enterprise GTA Sales",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Enterprise-GTA-Sales-ON/1393997800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Sales Associate",
+"company": "Rogers",
+"location": "Oshawa, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Oshawa-Sales-Associate-ON/1417685300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Category Lead",
+"company": "Rogers",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Toronto-Category-Lead-ON/1417936800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Technical Delivery Manager",
+"company": "Rogers",
+"location": "Brampton, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.rogers.com/job/Brampton-Technical-Delivery-Manager-ON/1427500200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Rogers careers"
+},
+{
+"title": "Manager, FP&A Corporate Groups",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Manager%2C-FP&A-Corporate-Groups-ON/1423672400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Project Manager",
+"company": "Bell",
+"location": "Montreal, QC, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montreal-Project-Manager-QC/1424066500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Gestionnaire de projets",
+"company": "Bell",
+"location": "Montréal, QC, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Montr%C3%A9al-Gestionnaire-de-projets-QC/1424066600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, saisonnier, Les Galeries Joliette",
+"company": "Bell",
+"location": "Joliette, QC, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Joliette-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-saisonnier%2C-Les-Galeries-Joliette-QC/1425113900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Hillside Shopping Centre, Futures opportunités",
+"company": "Bell",
+"location": "Nanaimo, BC, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Nanaimo-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Hillside-Shopping-Centre%2C-Futures-opportunit%C3%A9s-BC/1396191200/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Hillside Shopping Centre, Future Opportunities",
+"company": "Bell",
+"location": "Nanaimo, BC, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Nanaimo-Retail-Sales-Associate%2C-Hillside-Shopping-Centre%2C-Future-Opportunities-BC/1396191100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Consultant, ICT Systems Architecture, Epic",
+"company": "Bell",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Winnipeg-Consultant%2C-ICT-Systems-Architecture%2C-Epic-MB/1425989800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Gestionnaire, FP&A (Groupes corporatifs)",
+"company": "Bell",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Toronto-Gestionnaire%2C-FP&A-%28Groupes-corporatifs%29-ON/1423672500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Retail Sales Associate, Les Galeries Joliette",
+"company": "Bell",
+"location": "Joliette, QC, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Joliette-Seasonal-Retail-Sales-Associate%2C-Les-Galeries-Joliette-QC/1425113800/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Conseiller, ingénierie des systèmes TIC, Epic",
+"company": "Bell",
+"location": "Winnipeg, MB, CA",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://jobs.bce.ca/bell/job/Winnipeg-Conseiller%2C-ing%C3%A9nierie-des-syst%C3%A8mes%C2%A0TIC%2C-Epic-MB/1425989700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Sorter AM 073",
+"company": "Purolator",
+"location": "Grande Prairie, AB, CA, T8V 5M1",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Grande-Prairie-Sorter-AM-073-AB-T8V-5M1/1427823300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Mechanic Class A 012",
+"company": "Purolator",
+"location": "Etobicoke, ON, CA, M8W 3C3",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Etobicoke-Mechanic-Class-A-012-ON-M8W-3C3/1427536300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Chauffeur Classe 1",
+"company": "Purolator",
+"location": "Saint-Laurent, Québec, CA, H4S 2E7",
+"posted": "2026-10-07T07:00:00+00:00",
+"link": "https://careers.purolator.com/job/Saint-Laurent-Chauffeur-Classe-1-Qu%C3%A9b-H4S-2E7/1383131300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Purolator careers"
+},
+{
+"title": "Technical Expert, Engineering, Structures (SQM-E)",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Technical-Expert%2C-Engineering%2C-Structures-%28SQM-E%29-ON-L5S-1W1/1374872033/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Interiors Supervisor",
+"company": "Bombardier",
+"location": "Tucson, AZ, US, 85706-9279",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Tucson-Interiors-Supervisor-AZ-85706-9279/1424985833/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Leader, Operations",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Leader%2C-Operations-Qu%C3%A9b-H4S-1Y9/1045707601/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Leader, Opérations",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Leader%2C-Op%C3%A9rations-Qu%C3%A9b-H4S-1Y9/1045707701/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Quality Agent, Electronics",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Quality-Agent%2C-Electronics-Qu%C3%A9b-H4S-1Y9/1223868001/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Inspecteur en Avionique",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Inspecteur-en-Avionique-Qu%C3%A9b-H4S-1Y9/1223868101/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Agent(e) des Matières Logistiques",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Agent%28e%29-des-Mati%C3%A8res-Logistiques-Qu%C3%A9b-H4R-1K2/1394242433/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Material Logistics Agent",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4R 1K2",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Material-Logistics-Agent-Qu%C3%A9b-H4R-1K2/1394242333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyste principal, Stratégie et développement commercial",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyste-principal%2C-Strat%C3%A9gie-et-d%C3%A9veloppement-commercial-Qu%C3%A9b-H4S-1Y9/1384538133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Analyst Senior, Strategy & Business Development",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Analyst-Senior%2C-Strategy-&-Business-Development-Qu%C3%A9b-H4S-1Y9/1384538233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRACT) - Senior Facilities Planner - Montreal",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-%28CONTRACT%29-Senior-Facilities-Planner-Montreal-Qu%C3%A9b-H4S-1Y9/1384669333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Expert technique, Ingénierie - Charges avion",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Expert-technique%2C-Ing%C3%A9nierie-Charges-avion-Qu%C3%A9b-H4S-1Y9/1384741733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technical Expert, Engineering - Aircraft Loads",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Technical-Expert%2C-Engineering-Aircraft-Loads-Qu%C3%A9b-H4S-1Y9/1384741633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professionel.e Ingénierie - Développeur logiciel CFD aérospatial - Aérodynamique avancée et HPC",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professionel_e-Ing%C3%A9nierie-D%C3%A9veloppeur-logiciel-CFD-a%C3%A9rospatial-A%C3%A9rodynamique-avanc%C3%A9e-et-HPC-Qu%C3%A9b-H4S-1Y9/1424833133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional, Engineering - Aerospace CFD Software Developer - Advanced Aerodynamics & HPC",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Professional%2C-Engineering-Aerospace-CFD-Software-Developer-Advanced-Aerodynamics-&-HPC-Qu%C3%A9b-H4S-1Y9/1424833233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Student, Human Resources, Organizational Development",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Student%2C-Human-Resources%2C-Organizational-Development-MEX-76270/1424971933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Aircraft Engine Technician - Wichita, KS",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209-2924",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Aircraft-Engine-Technician-Wichita%2C-KS-KS-67209-2924/1234478501/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Agente de Métodos, Configuración",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Agente-de-M%C3%A9todos%2C-Configuraci%C3%B3n-MEX-76270/1397975933/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Training Coach - Aircraft Maintenance (Fort Wayne, IN)",
+"company": "Bombardier",
+"location": "Fort Wayne, IN, US, 46809",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Fort-Wayne-Training-Coach-Aircraft-Maintenance-%28Fort-Wayne%2C-IN%29-IN-46809/1383341633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRACT) Professional Sr, Engineering - Structures Design Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-%28CONTRACT%29-Professional-Sr%2C-Engineering-Structures-Design-Integrator-Qu%C3%A9b-H4S-2A9/1434943333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technical Expert, Engineering, Structures Design Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Technical-Expert%2C-Engineering%2C-Structures-Design-Integrator-Qu%C3%A9b-H4S-2A9/1435074633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Professional Engineering, Structures Design Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-Professional-Engineering%2C-Structures-Design-Integrator-Qu%C3%A9b-H4S-2A9/1435072133/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRACT) - Professional Sr, Engineering - Systems Installation Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-%28CONTRACT%29-Professional-Sr%2C-Engineering-Systems-Installation-Integrator-Qu%C3%A9b-H4S-2A9/1435014633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRAT) - Professionnel, ingénierie - Intégrateur d'installation de systèmes",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-%28CONTRAT%29-Professionnel%2C-ing%C3%A9nierie-Int%C3%A9grateur-d'installation-de-syst%C3%A8mes-Qu%C3%A9b-H4S-2A9/1435012733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technical Expert Senior, Engineering Strategic Initiatives",
+"company": "Bombardier",
+"location": "Mississauga, ON, CA, L5S 1W1",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Mississauga-Technical-Expert-Senior%2C-Engineering-Strategic-Initiatives-ON-L5S-1W1/1434992733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRACT) - Professional, Engineering Systems Installation Integrator",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-%28CONTRACT%29-Professional%2C-Engineering-Systems-Installation-Integrator-Qu%C3%A9b-H4S-2A9/1435012633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Engineering Career Accelerated Program (ECAP)",
+"company": "Bombardier",
+"location": "Wichita, KS, US, 67209",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Wichita-Engineering-Career-Accelerated-Program-%28ECAP%29-KS-67209/1435043233/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRAT) - Professionnel, ingénierie - Integrateur d'installation de systèmes",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-%28CONTRAT%29-Professionnel%2C-ing%C3%A9nierie-Integrateur-d'installation-de-syst%C3%A8mes-Qu%C3%A9b-H4S-2A9/1435013533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "(CONTRAT) - Professionnel principal, ingénierie - Intégrateur d'installation de systèmes",
+"company": "Bombardier",
+"location": "St-Laurent, Québec, CA, H4S 2A9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/St-Laurent-%28CONTRAT%29-Professionnel-principal%2C-ing%C3%A9nierie-Int%C3%A9grateur-d'installation-de-syst%C3%A8mes-Qu%C3%A9b-H4S-2A9/1435014733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Methods Specialist - Functional Test Control Mechanical Systems (FTC)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Methods-Specialist-Functional-Test-Control-Mechanical-Systems-%28FTC%29-Qu%C3%A9b-H4S-1Y9/1435043533/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Defense Procurement Project Management Specialist (2 openings)",
+"company": "Bombardier",
+"location": "Dorval, Québec, CA, H4S 1Y9",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Dorval-Defense-Procurement-Project-Management-Specialist-%282-openings%29-Qu%C3%A9b-H4S-1Y9/1435063733/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
+},
+{
+"title": "Technologist, Quality Assurance, Final Assembly - Harnesses",
+"company": "Bombardier",
+"location": "Colon, MEX, MX, 76270",
+"posted": "2026-10-07T02:01:00+00:00",
+"link": "https://jobs.bombardier.com/job/Colon-Technologist%2C-Quality-Assurance%2C-Final-Assembly-Harnesses-MEX-76270/1435066333/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bombardier careers"
 },
 {
 "title": "Représentant(e) aux ventes | Temps partiel | Galeries de Hull",
@@ -328,6 +824,102 @@
 "posted": "2026-10-07T02:00:00+00:00",
 "link": "https://jobs.canadapost.ca/job/Seaforth-Rural-and-Suburban-Mail-Carrier%2C-On-call-Relief-ON/602485717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
 "source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Tusket, NS, CA",
+"posted": "2026-10-07T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Tusket-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-NS/605052317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Roberval, QC, CA",
+"posted": "2026-10-07T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Roberval-Facteur-Agent-de-livraison-et-commis-des-postes-QC/602564717/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur rural et suburbain de relève en disponibilité 1",
+"company": "Canada Post",
+"location": "Rimouski, QC, CA",
+"posted": "2026-10-07T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Rimouski-Facteur-rural-et-suburbain-de-rel%C3%A8ve-en-disponibilit%C3%A9-1-QC/605075317/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Letter Carrier - Delivery Agent and Postal Clerk",
+"company": "Canada Post",
+"location": "Roberval, QC, CA",
+"posted": "2026-10-07T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Roberval-Letter-Carrier-Delivery-Agent-and-Postal-Clerk-QC/602564817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Facteur - Agent de livraison et commis des postes",
+"company": "Canada Post",
+"location": "Dolbeau-Mistassini, QC, CA",
+"posted": "2026-10-07T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Dolbeau-Mistassini-Facteur-Agent-de-livraison-et-commis-des-postes-QC/602565817/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Adjoint dans un bureau de poste - Durée déterminée",
+"company": "Canada Post",
+"location": "Beaupré, QC, CA",
+"posted": "2026-10-07T02:00:00+00:00",
+"link": "https://jobs.canadapost.ca/job/Beaupr%C3%A9-Adjoint-dans-un-bureau-de-poste-Dur%C3%A9e-d%C3%A9termin%C3%A9e-QC/601964517/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Canada Post careers"
+},
+{
+"title": "Représentant de vente au detail saisonnier, Bridgewater",
+"company": "Bell",
+"location": "Bridgewater, NS, CA",
+"posted": "2026-10-07T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Bridgewater-Repr%C3%A9sentant-de-vente-au-detail-saisonnier%2C-Bridgewater-NS/1437603400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Sales Consultant, Bridgewater",
+"company": "Bell",
+"location": "Bridgewater, NS, CA",
+"posted": "2026-10-07T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Bridgewater-Seasonal-Sales-Consultant%2C-Bridgewater-NS/1437603500/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Truro Mall",
+"company": "Bell",
+"location": "Truro, NS, CA",
+"posted": "2026-10-07T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Truro-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Truro-Mall-NS/1437605600/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Seasonal Sales Consultant, Truro",
+"company": "Bell",
+"location": "Truro, NS, CA",
+"posted": "2026-10-07T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Truro-Seasonal-Sales-Consultant%2C-Truro-NS/1437605700/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Retail Sales Associate, Bridgewater",
+"company": "Bell",
+"location": "Bridgewater, NS, CA",
+"posted": "2026-10-07T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Bridgewater-Retail-Sales-Associate%2C-Bridgewater-NS/1437604100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
+},
+{
+"title": "Représentant vente au détail, Bridgewater Mall",
+"company": "Bell",
+"location": "Bridgewater, NS, CA",
+"posted": "2026-10-07T00:00:00+00:00",
+"link": "https://jobs.bce.ca/Best-Buy-Express/job/Bridgewater-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Bridgewater-Mall-NS/1437604000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
+"source": "Bell careers"
 },
 {
 "title": "Manager, Occupational Therapy, Physiotherapy and Recreational Therapy",
@@ -1975,6 +2567,22 @@
 "location": "Richmond Hill, ON, CA",
 "posted": "2026-10-06",
 "link": "https://ca.indeed.com/viewjob?jk=f97f3567c132f62a",
+"source": "Indeed"
+},
+{
+"title": "Registered Nurse, Surgical Outpatient Clinics",
+"company": "Humber River Health",
+"location": "Greater Toronto Area, ON, CA",
+"posted": "2026-10-06",
+"link": "https://ca.indeed.com/viewjob?jk=abb23f526aa3aadd",
+"source": "Indeed"
+},
+{
+"title": "Personal Support Worker (PSW) (Casual) - Harold and Grace Baker Centre (Long Term Care)",
+"company": "Extendicare",
+"location": "Toronto, ON, CA",
+"posted": "2026-10-06",
+"link": "https://ca.indeed.com/viewjob?jk=434adcd65ef953e1",
 "source": "Indeed"
 },
 {
@@ -4608,62 +5216,6 @@
 "posted": "2026-10-05",
 "link": "https://ca.indeed.com/viewjob?jk=89585ed616d29192",
 "source": "Indeed"
-},
-{
-"title": "Sales Associate",
-"company": "Rogers",
-"location": "Brampton, ON, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Brampton-Sales-Associate-ON/1417294900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Assistant Store Manager",
-"company": "Rogers",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Montreal-Assistant-Store-Manager-QC/1398084400/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Manager, Finance",
-"company": "Rogers",
-"location": "Calgary, AB, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Calgary-Manager%2C-Finance-AB/1407730100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "System Technician",
-"company": "Rogers",
-"location": "St. Albert, AB, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/St_-Albert-System-Technician-AB/1407725900/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Gestionnaire Adjoint.e de Magasin",
-"company": "Rogers",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.rogers.com/job/Montreal-Gestionnaire-Adjoint_e-de-Magasin-QC/1398084300/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Rogers careers"
-},
-{
-"title": "Représentant vente au détail, Place Vertu",
-"company": "Bell",
-"location": "Montréal, QC, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montr%C3%A9al-Repr%C3%A9sentant-vente-au-d%C3%A9tail%2C-Place-Vertu-QC/1407548000/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
-},
-{
-"title": "Retail Sales Associate, Place Vertu",
-"company": "Bell",
-"location": "Montreal, QC, CA",
-"posted": "2026-10-05T07:00:00+00:00",
-"link": "https://jobs.bce.ca/Best-Buy-Express/job/Montreal-Retail-Sales-Associate%2C-Place-Vertu-QC/1407548100/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS",
-"source": "Bell careers"
 }
 ]
 }
